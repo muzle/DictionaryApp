@@ -40,3 +40,17 @@ struct AlertConfiguration {
         self.position = position
     }
 }
+
+// MARK: - FoctoryMethod
+
+extension AlertConfiguration {
+    static func makeOkErrorAlertConfiguration(message: String?) -> AlertConfiguration {
+        .init(
+            title: GSln.Alert.error,
+            message: message,
+            action: GSln.Alert.ok,
+            style: .error,
+            position: .bottom
+        )
+    }
+}

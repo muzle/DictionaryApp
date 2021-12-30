@@ -12,25 +12,25 @@ import Foundation
 internal enum GSln {
 	internal enum WelcomeScene {
 		/// Привет
-		internal static let navigationTitle = GSln.tr("GSln", "WelcomeScene.navigationTitle")
+		internal static let navigationTitle = GSln.tr("Localizable", "WelcomeScene.navigationTitle")
 		/// Привет, это приложение в качестве тестового задания написал Женька
-		internal static let message = GSln.tr("GSln", "WelcomeScene.message")
+		internal static let message = GSln.tr("Localizable", "WelcomeScene.message")
 		/// Отправить ему Email
-		internal static let emailButton = GSln.tr("GSln", "WelcomeScene.emailButton")
+		internal static let emailButton = GSln.tr("Localizable", "WelcomeScene.emailButton")
 		/// Написать в Telegram
-		internal static let telegramButton = GSln.tr("GSln", "WelcomeScene.telegramButton")
+		internal static let telegramButton = GSln.tr("Localizable", "WelcomeScene.telegramButton")
 		/// Поиск новых слов
-		internal static let activeSearchTitle = GSln.tr("GSln", "WelcomeScene.activeSearchTitle")
+		internal static let activeSearchTitle = GSln.tr("Localizable", "WelcomeScene.activeSearchTitle")
 		/// Поиск слов
-		internal static let inactiveSearchTitle = GSln.tr("GSln", "WelcomeScene.inactiveSearchTitle")
+		internal static let inactiveSearchTitle = GSln.tr("Localizable", "WelcomeScene.inactiveSearchTitle")
 	}
 	internal enum Alert {
 		/// Ошибка
-		internal static let error = GSln.tr("GSln", "Alert.error")
+		internal static let error = GSln.tr("Localizable", "Alert.error")
 		/// Хорошо
-		internal static let ok = GSln.tr("GSln", "Alert.ok")
+		internal static let ok = GSln.tr("Localizable", "Alert.ok")
 		/// Отмена
-		internal static let cancel = GSln.tr("GSln", "Alert.cancel")
+		internal static let cancel = GSln.tr("Localizable", "Alert.cancel")
 	}
 	internal enum SocialServiceError {
 		/// Не удалось открыть %0@. Проверите, установлено ли приложение.
@@ -40,17 +40,17 @@ internal enum GSln {
 	}
 	internal enum WordMeaningScene {
 		/// Другой перевод
-		internal static let anotherTranslation = GSln.tr("GSln", "WordMeaningScene.anotherTranslation")
+		internal static let anotherTranslation = GSln.tr("Localizable", "WordMeaningScene.anotherTranslation")
 	}
 	internal enum InfoView {
 		/// Упс, ошибка
-		internal static let errorHeader = GSln.tr("GSln", "InfoView.errorHeader")
+		internal static let errorHeader = GSln.tr("Localizable", "InfoView.errorHeader")
 		/// Попробовать ещё раз
-		internal static let buttonRepeat = GSln.tr("GSln", "InfoView.buttonRepeat")
+		internal static let buttonRepeat = GSln.tr("Localizable", "InfoView.buttonRepeat")
 		/// Упс, такого слова не найдено
-		internal static let wordNotFined = GSln.tr("GSln", "InfoView.wordNotFined")
+		internal static let wordNotFined = GSln.tr("Localizable", "InfoView.wordNotFined")
 		/// Введите нужное слово
-		internal static let needInputWord = GSln.tr("GSln", "InfoView.needInputWord")
+		internal static let needInputWord = GSln.tr("Localizable", "InfoView.needInputWord")
 	}
 }
 // swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length

@@ -3,3 +3,6 @@
 import Foundation
 
 // MARK: - Context
+
+protocol HasSocialService { var socialService: SocialService { get } }
+extension Context: HasSocialService { }

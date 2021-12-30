@@ -3,7 +3,26 @@
 import UIKit
 
 protocol CoordinatorsFactory {
+    func makeRootSceneCoordinator(
+    ) -> RootSceneCoordinator
+    func makeWelcomeSceneCoordinator(
+        navigation: NavigatorType?
+    ) -> WelcomeSceneCoordinator
 }
 
 extension Context: CoordinatorsFactory {
+    func makeRootSceneCoordinator(
+    ) -> RootSceneCoordinator {
+        RootSceneCoordinator(
+                context: self
+        )
+    }
+    func makeWelcomeSceneCoordinator(
+        navigation: NavigatorType?
+    ) -> WelcomeSceneCoordinator {
+        WelcomeSceneCoordinator(
+                context: self,
+                navigation: navigation
+        )
+    }
 }

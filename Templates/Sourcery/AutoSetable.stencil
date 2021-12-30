@@ -1,0 +1,40 @@
+import UIKit
+import Foundation
+
+// MARK: - Setable for classes, structs
+
+{% for type in types.implementing.AutoSetable %}
+{% if not type.kind == "protocolComposition" %}
+{% if type.kind == "struct" %}
+// MARK: - {{ type.name }}
+extension {{ type.name }} {
+    enum Part {
+        {% for variable in type.storedVariables %}{% if variable.isMutable %}
+        case {{ variable.name }}({{variable.typeName}})
+        {% endif %}{% endfor %}
+    }
+    
+    func byAdding(_ parts: Part...) -> {{ type.name }} {
+        byAdding(parts)
+    }
+    
+    func byAdding(_ parts: [Part]) -> {{ type.name }} {
+        guard !parts.isEmpty else { return self }
+        var value = self
+        for part in parts {
+            value.update(part)
+        }
+        return value
+    }
+    
+    private mutating func update(_ part: Part) {
+        switch part {
+        {% for variable in type.storedVariables %}{% if variable.isMutable %}
+        case .{{ variable.name }}(let {{variable.name}}):
+            self.{{ variable.name }} = {{ variable.name }}
+        {% endif %}{% endfor %}
+        }
+    }
+}
+{% endif %}{% endif %}
+{% endfor %}
