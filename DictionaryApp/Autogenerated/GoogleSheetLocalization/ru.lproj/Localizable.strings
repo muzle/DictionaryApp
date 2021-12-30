@@ -1,0 +1,18 @@
+// GoogleSheet: https://docs.google.com/spreadsheets/d/1gFzZZ6bueDUveyNITtTRfuZnrP2K6b6z8XcywR2L1ns/edit#gid=0
+// Generated using GoogleSheetLocalizationExport: https://github.com/muzle/GoogleSheetLocalizationExport
+
+"WelcomeScene.navigationTitle" = "Привет";
+"WelcomeScene.message" = "Привет, это приложение в качестве тестового задания написал Женька";
+"WelcomeScene.emailButton" = "Отправить ему Email";
+"WelcomeScene.telegramButton" = "Написать в Telegram";
+"WelcomeScene.activeSearchTitle" = "Поиск новых слов";
+"WelcomeScene.inactiveSearchTitle" = "Поиск слов";
+"Alert.error" = "Ошибка";
+"Alert.ok" = "Хорошо";
+"Alert.cancel" = "Отмена";
+"SocialServiceError.cantOpenApp" = "Не удалось открыть %0@. Проверите, установлено ли приложение.";
+"WordMeaningScene.anotherTranslation" = "Другой перевод";
+"InfoView.errorHeader" = "Упс, ошибка";
+"InfoView.buttonRepeat" = "Попробовать ещё раз";
+"InfoView.wordNotFined" = "Упс, такого слова не найдено";
+"InfoView.needInputWord" = "Введите нужное слово";

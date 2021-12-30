@@ -1,0 +1,18 @@
+// GoogleSheet: https://docs.google.com/spreadsheets/d/1gFzZZ6bueDUveyNITtTRfuZnrP2K6b6z8XcywR2L1ns/edit#gid=0
+// Generated using GoogleSheetLocalizationExport: https://github.com/muzle/GoogleSheetLocalizationExport
+
+"WelcomeScene.navigationTitle" = "Salut";
+"WelcomeScene.message" = "Bonjour, cette application comme un travail de test a écrit zhenka";
+"WelcomeScene.emailButton" = "Envoyez-lui un Email";
+"WelcomeScene.telegramButton" = "Écrire dans Telegram";
+"WelcomeScene.activeSearchTitle" = "Trouver de nouveaux mots";
+"WelcomeScene.inactiveSearchTitle" = "Recherche de mots";
+"Alert.error" = "Erreur";
+"Alert.ok" = "Ça va";
+"Alert.cancel" = "Annulation";
+"SocialServiceError.cantOpenApp" = "Impossible d'ouvrir %0@. Vérifiez si l'application est installée.";
+"WordMeaningScene.anotherTranslation" = "Autre traduction";
+"InfoView.errorHeader" = "Oups, erreur";
+"InfoView.buttonRepeat" = "Essayer à nouveau";
+"InfoView.wordNotFined" = "Oups, un tel mot n'a pas été trouvé";
+"InfoView.needInputWord" = "Entrez le mot que vous voulez";

@@ -1,0 +1,18 @@
+// GoogleSheet: https://docs.google.com/spreadsheets/d/1gFzZZ6bueDUveyNITtTRfuZnrP2K6b6z8XcywR2L1ns/edit#gid=0
+// Generated using GoogleSheetLocalizationExport: https://github.com/muzle/GoogleSheetLocalizationExport
+
+"WelcomeScene.navigationTitle" = "היי.";
+"WelcomeScene.message" = "שלום, יישום זה כמשימה מבחן נכתב על ידי Zhenka";
+"WelcomeScene.emailButton" = "שלח לו דוא  ל";
+"WelcomeScene.telegramButton" = "כתוב בטלגרם";
+"WelcomeScene.activeSearchTitle" = "חפש מילים חדשות";
+"WelcomeScene.inactiveSearchTitle" = "חיפוש מילים";
+"Alert.error" = "שגיאה";
+"Alert.ok" = "בסדר.";
+"Alert.cancel" = "ביטול";
+"SocialServiceError.cantOpenApp" = "אין אפשרות לפתוח את %0@. בדוק אם האפליקציה מותקנת.";
+"WordMeaningScene.anotherTranslation" = "תרגום נוסף";
+"InfoView.errorHeader" = "אופס, טעות";
+"InfoView.buttonRepeat" = "לנסות שוב";
+"InfoView.wordNotFined" = "אופס, מילה כזו לא נמצאה";
+"InfoView.needInputWord" = "הקלד את המילה הרצויה";
