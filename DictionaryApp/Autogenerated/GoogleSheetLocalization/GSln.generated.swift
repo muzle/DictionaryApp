@@ -35,7 +35,7 @@ internal enum GSln {
 	internal enum SocialServiceError {
 		/// Не удалось открыть %0@. Проверите, установлено ли приложение.
 		internal static func cantOpenApp(_ p0: Any) -> String {
-			return GSln.tr("GSln", "SocialServiceError.cantOpenApp", String(describing: p0))
+			return GSln.tr("Localizable", "SocialServiceError.cantOpenApp", String(describing: p0))
 		}
 	}
 	internal enum WordMeaningScene {

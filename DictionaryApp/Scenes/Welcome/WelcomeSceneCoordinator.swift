@@ -21,11 +21,39 @@ final class WelcomeSceneCoordinator: AutoCoordinatorType {
 
 extension WelcomeSceneCoordinator: CoordinatorType {
     func makeScene() -> UIViewController {
+        let searchResultScenePresenterWrapper = ReferenceWrapper<(() -> SearchResultScenePresenter)?>(value: nil)
+        let searchResultCoordinatorConfig = SearchWordSceneCoordinator.Configuration(
+            searchText: nil,
+            searchResultScenePresenterWrapper: searchResultScenePresenterWrapper
+        )
+        let searchResultCoordinator = context.makeSearchWordSceneCoordinator(
+            navigation: navigation,
+            configuration: searchResultCoordinatorConfig
+        )
+        let searchResultScene = searchResultCoordinator.makeScene()
+        guard let searchResultScenePresenter = searchResultScenePresenterWrapper.value?() else {
+            preconditionFailure("Error get SearchResultScenePresenter")
+        }
+        let searchSceneCoordinatorConfig = SearchSceneCoordinator.Configuration(
+            resultScene: searchResultScene,
+            resultScenePresenter: searchResultScenePresenter,
+            startText: nil,
+            searchBarActivePlaceholder: GSln.WelcomeScene.activeSearchTitle,
+            searchBarInactivePlaceholder: GSln.WelcomeScene.inactiveSearchTitle
+        )
+        let searchCoordinator = context.makeSearchSceneCoordinator(
+            configuration: searchSceneCoordinatorConfig
+        )
+        guard let searchController = searchCoordinator.makeScene() as? UISearchController else {
+            preconditionFailure("Error cast SearchSceneCoordinator scene to UISearchController")
+        }
         let scenePresenter = WelcomeScenePresenterImpl(
             context: context,
             router: asRouter()
         )
-        let scene = WelcomeScene()
+        let scene = WelcomeScene().apply {
+            $0.navigationItem.searchController = searchController
+        }
         let presenter = scenePresenter.attach(delegate: scene)
         scene.attach(presenter: presenter)
         return scene

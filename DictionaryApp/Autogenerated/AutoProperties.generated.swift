@@ -6,3 +6,6 @@ import Foundation
 
 protocol HasSocialService { var socialService: SocialService { get } }
 extension Context: HasSocialService { }
+
+protocol HasWordsUseCase { var wordsUseCase: WordsUseCase { get } }
+extension Context: HasWordsUseCase { }

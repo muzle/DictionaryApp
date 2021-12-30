@@ -7,3 +7,9 @@ public protocol PresenterType {
     
     func attach(delegate: Delegate) -> Handler
 }
+
+extension PresenterType {
+    func asAnyPresenter() -> AnyPresenter<Delegate, Handler> {
+        AnyPresenter<Delegate, Handler>(self)
+    }
+}
