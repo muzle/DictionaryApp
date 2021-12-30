@@ -16,3 +16,8 @@
 "InfoView.buttonRepeat" = "Попробовать ещё раз";
 "InfoView.wordNotFined" = "Упс, такого слова не найдено";
 "InfoView.needInputWord" = "Введите нужное слово";
+"NetworkError.decode" = "Не удалось получить ответ, обратитесь в службу поддержки.";
+"NetworkError.badConnection" = "Плохое соединение с интернетом, попробуйте позже.";
+"NetworkError.badUrl" = "Что-то пошло не так, обратитесь в службу поддержки.";
+"NetworkError.notValidStatus" = "Что-то пошло не так, обратитесь в службу поддержки.";
+"NetworkError.serverDisable" = "Нет ответа от сервера.";

@@ -16,3 +16,8 @@
 "InfoView.buttonRepeat" = "To try one more time";
 "InfoView.wordNotFined" = "Oops, no such word found";
 "InfoView.needInputWord" = "Enter the word you want";
+"NetworkError.decode" = "Unable to get a response, please contact support.";
+"NetworkError.badConnection" = "Poor internet connection, try again later.";
+"NetworkError.badUrl" = "Something went wrong, contact support.";
+"NetworkError.notValidStatus" = "Something went wrong, contact support.";
+"NetworkError.serverDisable" = "There is no response from the server.";

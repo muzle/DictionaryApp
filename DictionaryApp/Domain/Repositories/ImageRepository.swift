@@ -1,6 +1,6 @@
 import UIKit
 
-protocol ImageRepository {
+public protocol ImageRepository {
     func loadImage(
         with url: URL,
         completion: @escaping (Result<UIImage?, Error>) -> Void

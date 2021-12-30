@@ -16,3 +16,8 @@
 "InfoView.buttonRepeat" = "Essayer à nouveau";
 "InfoView.wordNotFined" = "Oups, un tel mot n'a pas été trouvé";
 "InfoView.needInputWord" = "Entrez le mot que vous voulez";
+"NetworkError.decode" = "Impossible d'obtenir une réponse, contactez le support technique.";
+"NetworkError.badConnection" = "Mauvaise connexion Internet, essayez plus tard.";
+"NetworkError.badUrl" = "Quelque chose a mal tourné, contactez le support.";
+"NetworkError.notValidStatus" = "Quelque chose a mal tourné, contactez le support.";
+"NetworkError.serverDisable" = "Pas de réponse du serveur.";

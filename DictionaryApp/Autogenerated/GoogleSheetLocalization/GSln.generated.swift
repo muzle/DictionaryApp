@@ -52,6 +52,18 @@ internal enum GSln {
 		/// Введите нужное слово
 		internal static let needInputWord = GSln.tr("Localizable", "InfoView.needInputWord")
 	}
+	internal enum NetworkError {
+		/// Не удалось получить ответ, обратитесь в службу поддержки.
+		internal static let decode = GSln.tr("Localizable", "NetworkError.decode")
+		/// Плохое соединение с интернетом, попробуйте позже.
+		internal static let badConnection = GSln.tr("Localizable", "NetworkError.badConnection")
+		/// Что-то пошло не так, обратитесь в службу поддержки.
+		internal static let badUrl = GSln.tr("Localizable", "NetworkError.badUrl")
+		/// Что-то пошло не так, обратитесь в службу поддержки.
+		internal static let notValidStatus = GSln.tr("Localizable", "NetworkError.notValidStatus")
+		/// Нет ответа от сервера.
+		internal static let serverDisable = GSln.tr("Localizable", "NetworkError.serverDisable")
+	}
 }
 // swiftlint:enable explicit_type_interface function_parameter_count identifier_name line_length
 // swiftlint:enable nesting type_body_length type_name vertical_whitespace_opening_braces

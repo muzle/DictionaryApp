@@ -16,3 +16,8 @@
 "InfoView.buttonRepeat" = "לנסות שוב";
 "InfoView.wordNotFined" = "אופס, מילה כזו לא נמצאה";
 "InfoView.needInputWord" = "הקלד את המילה הרצויה";
+"NetworkError.decode" = "געקענט צו באַקומען אַ ענטפער, ביטע קאָנטאַקט שטיצן.";
+"NetworkError.badConnection" = "נעבעך אינטערנעץ קשר, פּרובירן ווידער שפּעטער.";
+"NetworkError.badUrl" = "עפּעס זענען פאַלש, קאָנטאַקט שטיצן.";
+"NetworkError.notValidStatus" = "עפּעס זענען פאַלש, קאָנטאַקט שטיצן.";
+"NetworkError.serverDisable" = "עס איז קיין ענטפער פון די סערווירער.";

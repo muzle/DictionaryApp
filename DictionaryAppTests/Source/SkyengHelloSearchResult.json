@@ -1,0 +1,3290 @@
+[
+  {
+    "id": 13,
+    "text": "he",
+    "meanings": [
+      {
+        "id": 227959,
+        "partOfSpeechCode": "prn",
+        "translation": {
+          "text": "он",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/05df243a19f3bd1966de9a5879c87e20.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/05df243a19f3bd1966de9a5879c87e20.jpeg?w=640&h=480",
+        "transcription": "hiː",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hi%CB%90&transcription=1"
+      },
+      {
+        "id": 228061,
+        "partOfSpeechCode": "prn",
+        "translation": {
+          "text": "он",
+          "note": "обобщённое значение"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6ccddb4ca816560ecff59f53c1f8b2dd.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6ccddb4ca816560ecff59f53c1f8b2dd.jpeg?w=640&h=480",
+        "transcription": "hiː",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=he"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "text": "hear",
+    "meanings": [
+      {
+        "id": 51640,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "слышать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bdc9de59f1350c381cd87f7d6c819f59.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bdc9de59f1350c381cd87f7d6c819f59.jpeg?w=640&h=480",
+        "transcription": "hɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%AA%C9%99&transcription=1"
+      },
+      {
+        "id": 51641,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "слышать",
+          "note": "о чём-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/61904b7bfe485fa2f8ecedc9f09273c4.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/61904b7bfe485fa2f8ecedc9f09273c4.png?w=640&h=480",
+        "transcription": "hɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear"
+      },
+      {
+        "id": 51642,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "заслушивать",
+          "note": "дело в суде"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cbb72ae0a19469badedc23de3414a645.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cbb72ae0a19469badedc23de3414a645.jpeg?w=640&h=480",
+        "transcription": "hɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%AA%C9%99&transcription=1"
+      },
+      {
+        "id": 239212,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "слушать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2e55eee8988b0feaca44af8454c509a9.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2e55eee8988b0feaca44af8454c509a9.jpeg?w=640&h=480",
+        "transcription": "hɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "text": "head",
+    "meanings": [
+      {
+        "id": 51561,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "голова",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/530da4750f6e0bc7ae0c6587e33641f8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/530da4750f6e0bc7ae0c6587e33641f8.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51563,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "голова",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1b64a052d506b5a973ce8c114b1e379b.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1b64a052d506b5a973ce8c114b1e379b.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51564,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "руководитель",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dae87d361ee108c2d38f9b778bd03311.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dae87d361ee108c2d38f9b778bd03311.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51573,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "директор",
+          "note": "школы"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6eb70944ce1420292af3cecddedbaf13.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6eb70944ce1420292af3cecddedbaf13.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 241802,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "начало",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9996c2783b534816295862766b50d05c.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9996c2783b534816295862766b50d05c.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51574,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "человек",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f293e40af40aa70048cc848f89c2e8b9.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f293e40af40aa70048cc848f89c2e8b9.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51562,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "голова",
+          "note": "единица счёта животных"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/13d9d57e57fb420b0e08ee7cbbad05d8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/13d9d57e57fb420b0e08ee7cbbad05d8.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51591,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "шляпка",
+          "note": "гвоздя, болта, шурупа"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/20b806c97973324c1727985a2a9d048f.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/20b806c97973324c1727985a2a9d048f.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51567,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "верхняя часть",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd691ad6f91a0aa5232bce58a5dc0d4b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd691ad6f91a0aa5232bce58a5dc0d4b.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51568,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "исток",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/79db693d1d1466416f9184796c886b48.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/79db693d1d1466416f9184796c886b48.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51572,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "кочан",
+          "note": "капусты"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/facbec13f30e080b20673aef70c35d17.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/facbec13f30e080b20673aef70c35d17.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51594,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "направляться",
+          "note": "куда-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/83104b350358bddf801c6290081664f6.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/83104b350358bddf801c6290081664f6.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%9Bd&transcription=1"
+      },
+      {
+        "id": 51595,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "возглавлять",
+          "note": "руководить"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec1ded4e9a36cce36c95d7437ca9de65.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec1ded4e9a36cce36c95d7437ca9de65.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51596,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "возглавлять",
+          "note": "что-либо; быть впереди процессии или списка"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b12824acff35b036ac14b0791b12a2e2.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b12824acff35b036ac14b0791b12a2e2.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51598,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "направлять",
+          "note": "что-либо куда-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e818fb8c75fed99e9e6d450d97cb702f.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e818fb8c75fed99e9e6d450d97cb702f.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 254890,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "озаглавливать",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/63e218157c01037df48fe75eabbb9c8b.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/63e218157c01037df48fe75eabbb9c8b.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 254889,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "отбивать головой",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f3ea1296f64a612ef130cbfae6865b32.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f3ea1296f64a612ef130cbfae6865b32.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 51599,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "брать начало",
+          "note": "о реке"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/969bd5f77f36017b3e59e7ca3564e937.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/969bd5f77f36017b3e59e7ca3564e937.jpeg?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 254891,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "главный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dc2af545d48c03b4e2d40be8dd9d8467.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dc2af545d48c03b4e2d40be8dd9d8467.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      },
+      {
+        "id": 254892,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "встречный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cee8dfbbb30d1bc9388cfa109f7b88fc.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cee8dfbbb30d1bc9388cfa109f7b88fc.png?w=640&h=480",
+        "transcription": "hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "text": "health",
+    "meanings": [
+      {
+        "id": 167559,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "состояние здоровья",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/53296fe0e4cf6e9fe3a89c64c1c808c9.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/53296fe0e4cf6e9fe3a89c64c1c808c9.jpeg?w=640&h=480",
+        "transcription": "hɛlθ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health"
+      },
+      {
+        "id": 253123,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "здоровье",
+          "note": "отсутствие болезней"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/05717970872c0141d382d0ca6ed98809.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/05717970872c0141d382d0ca6ed98809.png?w=640&h=480",
+        "transcription": "hɛlθ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health"
+      },
+      {
+        "id": 253124,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "здравоохранение",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0c1323edaf21673656cdba1eeb57e693.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0c1323edaf21673656cdba1eeb57e693.jpeg?w=640&h=480",
+        "transcription": "hɛlθ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health"
+      },
+      {
+        "id": 253126,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "благосостояние",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3995964047e1a9f66d6cebf9c946bb1e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3995964047e1a9f66d6cebf9c946bb1e.jpeg?w=640&h=480",
+        "transcription": "hɛlθ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health"
+      }
+    ]
+  },
+  {
+    "id": 165944,
+    "text": "hear from",
+    "meanings": [
+      {
+        "id": 234909,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "услышать от",
+          "note": "кого-либо что-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1be3ea4fb5f6d06a7d49c10f55119817.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1be3ea4fb5f6d06a7d49c10f55119817.jpeg?w=640&h=480",
+        "transcription": "hɪə frɒm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear+from"
+      },
+      {
+        "id": 250045,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "получать известие от",
+          "note": "кого-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd9453b73b505cd58563326212df3efe.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd9453b73b505cd58563326212df3efe.png?w=640&h=480",
+        "transcription": "hɪə frɒm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear+from"
+      }
+    ]
+  },
+  {
+    "id": 893,
+    "text": "heat",
+    "meanings": [
+      {
+        "id": 51628,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "тепло",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/762e1e9de643ca421a850c2b9bac3906.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/762e1e9de643ca421a850c2b9bac3906.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      },
+      {
+        "id": 51629,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "тепло",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f82dc10451f1421384c8ce8dc5778cb4.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f82dc10451f1421384c8ce8dc5778cb4.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      },
+      {
+        "id": 51630,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "жар",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/082adf41fc32f9b22aa6d9097e831fbd.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/082adf41fc32f9b22aa6d9097e831fbd.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      },
+      {
+        "id": 51631,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "накал ",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/35ab76b789a603d15d9431c739b126a1.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/35ab76b789a603d15d9431c739b126a1.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      },
+      {
+        "id": 51635,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "нагревать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/005e6ec0ab6571decf2eae8a2dd339b2.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/005e6ec0ab6571decf2eae8a2dd339b2.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      },
+      {
+        "id": 51636,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "отапливать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1ab69a2d6624b7a7516427a44ad615bd.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1ab69a2d6624b7a7516427a44ad615bd.jpeg?w=640&h=480",
+        "transcription": "hiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heat"
+      }
+    ]
+  },
+  {
+    "id": 1281,
+    "text": "hell",
+    "meanings": [
+      {
+        "id": 67802,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "ад",
+          "note": "невыносимая обстановка"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ac3b0fe525efe24be79348559a7ff04e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ac3b0fe525efe24be79348559a7ff04e.jpeg?w=640&h=480",
+        "transcription": "hɛl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hell"
+      },
+      {
+        "id": 67804,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "преисподняя",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1541b7a5cd3d809cd1f811ed654702cc.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1541b7a5cd3d809cd1f811ed654702cc.png?w=640&h=480",
+        "transcription": "hɛl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hell"
+      },
+      {
+        "id": 67805,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "ад",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ebfbb7598fed115e93229d15435bb89.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ebfbb7598fed115e93229d15435bb89.png?w=640&h=480",
+        "transcription": "hɛl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hell"
+      }
+    ]
+  },
+  {
+    "id": 1289,
+    "text": "healthy",
+    "meanings": [
+      {
+        "id": 80093,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "здоровый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9e583d94119c0560b5089d06b26fc8b7.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9e583d94119c0560b5089d06b26fc8b7.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      },
+      {
+        "id": 80094,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "процветающий",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/12ee11a0b4342edd56217e348b2d18b8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/12ee11a0b4342edd56217e348b2d18b8.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      },
+      {
+        "id": 80095,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "полезный для здоровья",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c97c17ca0f788ce51acff2dc65ae74ca.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c97c17ca0f788ce51acff2dc65ae74ca.png?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      },
+      {
+        "id": 80096,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "здравый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0e14480f0283a603c3ad4660da19511a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0e14480f0283a603c3ad4660da19511a.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      },
+      {
+        "id": 80097,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "большой",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e381d3ca0ad5aa5cf59a7e93f9a6f5bf.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e381d3ca0ad5aa5cf59a7e93f9a6f5bf.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      },
+      {
+        "id": 241805,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "успешный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1e21569aa2f1f36debca2a60748194c3.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1e21569aa2f1f36debca2a60748194c3.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy"
+      }
+    ]
+  },
+  {
+    "id": 165379,
+    "text": "hear about",
+    "meanings": [
+      {
+        "id": 233839,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "слышать о",
+          "note": "чём-либо"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a8f8451d685410b7392346e7843a4673.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a8f8451d685410b7392346e7843a4673.jpeg?w=640&h=480",
+        "transcription": "hɪə əˈbaʊt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear+about"
+      }
+    ]
+  },
+  {
+    "id": 1506,
+    "text": "hearing",
+    "meanings": [
+      {
+        "id": 78774,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "разбор дела",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/aca6a0537c80be1a29cb60e462b5ec75.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/aca6a0537c80be1a29cb60e462b5ec75.jpeg?w=640&h=480",
+        "transcription": "ˈhɪərɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearing"
+      },
+      {
+        "id": 78775,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "выслушивание",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8dec4c93af47638fa8d1d55aa108a14d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8dec4c93af47638fa8d1d55aa108a14d.jpeg?w=640&h=480",
+        "transcription": "ˈhɪərɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearing"
+      },
+      {
+        "id": 78777,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "слух",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5a58dcf9183a61abd164e7dafeda3c84.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5a58dcf9183a61abd164e7dafeda3c84.jpeg?w=640&h=480",
+        "transcription": "ˈhɪərɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%AA%C9%99r%C9%AA%C5%8B&transcription=1"
+      }
+    ]
+  },
+  {
+    "id": 2277,
+    "text": "heaven",
+    "meanings": [
+      {
+        "id": 120733,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "райское место",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d029be504c3eeb399ce1213ca1257d6a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d029be504c3eeb399ce1213ca1257d6a.jpeg?w=640&h=480",
+        "transcription": "ˈhɛvn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heaven"
+      },
+      {
+        "id": 238313,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "рай",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/77702ecec76b3318c057ec80893ec48f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/77702ecec76b3318c057ec80893ec48f.jpeg?w=640&h=480",
+        "transcription": "ˈhɛvn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heaven"
+      },
+      {
+        "id": 238314,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "блаженство",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/841e88a90e3ed4473d39887957aafea8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/841e88a90e3ed4473d39887957aafea8.jpeg?w=640&h=480",
+        "transcription": "ˈhɛvn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heaven"
+      },
+      {
+        "id": 120734,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "рай",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5b2a9c415fed4df8344b35125ca73100.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5b2a9c415fed4df8344b35125ca73100.jpeg?w=640&h=480",
+        "transcription": "ˈhɛvn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heaven"
+      },
+      {
+        "id": 253459,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "небо",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/55c9f08ff7c2e3e1947d30ad06fc02af.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/55c9f08ff7c2e3e1947d30ad06fc02af.png?w=640&h=480",
+        "transcription": "ˈhɛvn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heaven"
+      }
+    ]
+  },
+  {
+    "id": 2477,
+    "text": "headquarters",
+    "meanings": [
+      {
+        "id": 85484,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "штаб-квартира",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3ddc3566314abce4fc8ec96875b80116.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3ddc3566314abce4fc8ec96875b80116.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdˈkwɔːtəz",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%9Bd%CB%88kw%C9%94%CB%90t%C9%99z&transcription=1"
+      },
+      {
+        "id": 85485,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "штаб-квартира",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d62c50e806a27574ed33f61592487b2e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d62c50e806a27574ed33f61592487b2e.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdˈkwɔːtəz",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headquarters"
+      }
+    ]
+  },
+  {
+    "id": 2847,
+    "text": "headline",
+    "meanings": [
+      {
+        "id": 118649,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "заголовок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/95e7bd6c1fe5bef8ef5826f0669731eb.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/95e7bd6c1fe5bef8ef5826f0669731eb.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      },
+      {
+        "id": 238095,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "главная новость",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae4b3e06c764722807079d85f60200c9.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae4b3e06c764722807079d85f60200c9.jpeg?w=640&h=480",
+        "transcription": "ˈhedlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      },
+      {
+        "id": 262581,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "колонтитул",
+          "note": ""
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "ˈhɛdlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      },
+      {
+        "id": 118650,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "широко освещать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/74775f4e6ba82ed533f9d8105b99447d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/74775f4e6ba82ed533f9d8105b99447d.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      },
+      {
+        "id": 238096,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "играть главную роль",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2bdf2f2999a30dd791edacaa000c6923.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2bdf2f2999a30dd791edacaa000c6923.jpeg?w=640&h=480",
+        "transcription": "ˈhedlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      },
+      {
+        "id": 118651,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "озаглавливать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bcd774868bb256d34512480d28266e3f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bcd774868bb256d34512480d28266e3f.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlaɪn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headline"
+      }
+    ]
+  },
+  {
+    "id": 3084,
+    "text": "herb",
+    "meanings": [
+      {
+        "id": 85198,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "трава",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b4df6c317d137f3fadcf20013daf09d3.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b4df6c317d137f3fadcf20013daf09d3.jpeg?w=640&h=480",
+        "transcription": "hɜːb",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%9C%CB%90b&transcription=1"
+      },
+      {
+        "id": 85199,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "зелень",
+          "note": "пряные, ароматические или кухонные травы"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/479567f4eee2ddb80e756341d98451fb.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/479567f4eee2ddb80e756341d98451fb.jpeg?w=640&h=480",
+        "transcription": "hɜːb",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=herb"
+      },
+      {
+        "id": 236829,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "трава ",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d3da95c737265798fa54c788b9615ed6.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d3da95c737265798fa54c788b9615ed6.png?w=640&h=480",
+        "transcription": "hɜːb",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=herb"
+      }
+    ]
+  },
+  {
+    "id": 3759,
+    "text": "heal",
+    "meanings": [
+      {
+        "id": 51619,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "вылечивать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/990da4c2490d6886d84c7f9c40ffda3c.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/990da4c2490d6886d84c7f9c40ffda3c.jpeg?w=640&h=480",
+        "transcription": "hiːl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hi%CB%90l&transcription=1"
+      },
+      {
+        "id": 51620,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "выздоравливать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f11c3dd1c6d2e693fdd4595173c9054b.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f11c3dd1c6d2e693fdd4595173c9054b.png?w=640&h=480",
+        "transcription": "hiːl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heal"
+      },
+      {
+        "id": 232899,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "заживать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4bad09e4a520b74f7a11233a8582bcb0.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4bad09e4a520b74f7a11233a8582bcb0.jpeg?w=640&h=480",
+        "transcription": "hiːl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heal"
+      },
+      {
+        "id": 234239,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "заживать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f2d948df5288f45648a31745f3a6778b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f2d948df5288f45648a31745f3a6778b.jpeg?w=640&h=480",
+        "transcription": "hiːl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heal"
+      },
+      {
+        "id": 51621,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "исцелять",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c434c2b7e4eb773d49619a340f64061f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c434c2b7e4eb773d49619a340f64061f.jpeg?w=640&h=480",
+        "transcription": "hiːl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hi%CB%90l&transcription=1"
+      }
+    ]
+  },
+  {
+    "id": 4092,
+    "text": "headache",
+    "meanings": [
+      {
+        "id": 110240,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "головная боль",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/99eb8b1bed8486360850f6a96c858c70.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/99eb8b1bed8486360850f6a96c858c70.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdeɪk",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%9Bde%C9%AAk&transcription=1"
+      },
+      {
+        "id": 110239,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "головная боль",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cd12caf17061c18b8a46cad0d72757c4.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cd12caf17061c18b8a46cad0d72757c4.png?w=640&h=480",
+        "transcription": "ˈhɛdeɪk",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headache"
+      }
+    ]
+  },
+  {
+    "id": 6099,
+    "text": "heap",
+    "meanings": [
+      {
+        "id": 51646,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "груда",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0b69979dd080aa2b37d217f79ce9568a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0b69979dd080aa2b37d217f79ce9568a.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 51647,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "куча",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/19ab79f166fda91d51242612ace63506.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/19ab79f166fda91d51242612ace63506.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 51648,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "драндуле́т",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/92d1a13714206ac46cfb2aac4b78fb21.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/92d1a13714206ac46cfb2aac4b78fb21.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 241808,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "груда",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/081f1597ed31275ed6e85fa8f5e2dcf5.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/081f1597ed31275ed6e85fa8f5e2dcf5.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 51650,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "складывать в кучу",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a2687e306a641c0f1cbba923ebe1faf7.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a2687e306a641c0f1cbba923ebe1faf7.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 51649,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "нагружать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/65b3fa859c42af970abc15674424b8a6.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/65b3fa859c42af970abc15674424b8a6.jpeg?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      },
+      {
+        "id": 51651,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "нагромождать",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/adad6cedc53b6e5088ec56aebce70207.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/adad6cedc53b6e5088ec56aebce70207.png?w=640&h=480",
+        "transcription": "hiːp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heap"
+      }
+    ]
+  },
+  {
+    "id": 180910,
+    "text": "heart-stopping",
+    "meanings": [
+      {
+        "id": 257459,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "захватывающий дух",
+          "note": ""
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "hɑːt-ˈstɒpɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heart-stopping"
+      }
+    ]
+  },
+  {
+    "id": 6947,
+    "text": "headlight",
+    "meanings": [
+      {
+        "id": 227227,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "фара",
+          "note": "передняя"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a88c737e9c43e3d8bcd57fa6a485c670.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a88c737e9c43e3d8bcd57fa6a485c670.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlaɪt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlight"
+      },
+      {
+        "id": 241758,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "головной свет",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ccc5b26f6199fb96a4173c43acccf0c4.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ccc5b26f6199fb96a4173c43acccf0c4.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlaɪt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlight"
+      }
+    ]
+  },
+  {
+    "id": 7104,
+    "text": "heartbeat",
+    "meanings": [
+      {
+        "id": 95852,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "сердцебиение",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d292d4c9ecbe0e70b5b97f68fc76170b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d292d4c9ecbe0e70b5b97f68fc76170b.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtbiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartbeat"
+      },
+      {
+        "id": 95853,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "мгновение ока",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/382596c4a612f81369a3ec2cf7cc7869.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/382596c4a612f81369a3ec2cf7cc7869.png?w=640&h=480",
+        "transcription": "ˈhɑːtbiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartbeat"
+      },
+      {
+        "id": 95854,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "сердце",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/baa1f9b24938bb17f8c1d8068ac45aff.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/baa1f9b24938bb17f8c1d8068ac45aff.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtbiːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartbeat"
+      }
+    ]
+  },
+  {
+    "id": 7404,
+    "text": "hemisphere",
+    "meanings": [
+      {
+        "id": 30139,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "полушарие",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3d9bb21405447f80cd8d4a34fdfa60b3.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3d9bb21405447f80cd8d4a34fdfa60b3.png?w=640&h=480",
+        "transcription": "ˈhɛmɪsfɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hemisphere"
+      },
+      {
+        "id": 30141,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "полушарие",
+          "note": "головного мозга"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/12b4396c9f4c74fb84f6cfbd0536b197.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/12b4396c9f4c74fb84f6cfbd0536b197.png?w=640&h=480",
+        "transcription": "ˈhɛmɪsfɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hemisphere"
+      },
+      {
+        "id": 30140,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "полушарие",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d8c8009e1ecc38abb1398ab3b80d430b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d8c8009e1ecc38abb1398ab3b80d430b.jpeg?w=640&h=480",
+        "transcription": "ˈhɛmɪsfɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hemisphere"
+      }
+    ]
+  },
+  {
+    "id": 7809,
+    "text": "herbal",
+    "meanings": [
+      {
+        "id": 38656,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "травяной",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3500f63fef8504b1d163418ec37e6dfc.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3500f63fef8504b1d163418ec37e6dfc.jpeg?w=640&h=480",
+        "transcription": "ˈhɜːbəl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%9C%CB%90b%C9%99l&transcription=1"
+      },
+      {
+        "id": 253342,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "",
+          "note": null
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "ˈhɜːbəl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=herbal"
+      },
+      {
+        "id": 253247,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "",
+          "note": null
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "ˈhɜːbəl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=herbal"
+      },
+      {
+        "id": 38655,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "травяной чай",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f213e8f9e3067dac233eab5f6ca4dc88.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f213e8f9e3067dac233eab5f6ca4dc88.png?w=640&h=480",
+        "transcription": "ˈhɜːbəl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=herbal"
+      }
+    ]
+  },
+  {
+    "id": 8182,
+    "text": "healer",
+    "meanings": [
+      {
+        "id": 116877,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "целитель",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4f56e01457110688d66f14341751e531.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4f56e01457110688d66f14341751e531.jpeg?w=640&h=480",
+        "transcription": "ˈhiːlə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healer"
+      },
+      {
+        "id": 232940,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "целитель",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dc29bc31b010c4cf9c95976e45db275b.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dc29bc31b010c4cf9c95976e45db275b.png?w=640&h=480",
+        "transcription": "ˈhiːlə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healer"
+      }
+    ]
+  },
+  {
+    "id": 8434,
+    "text": "heading",
+    "meanings": [
+      {
+        "id": 42910,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "заголовок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7845768d0b484055143fdd47f1129f79.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7845768d0b484055143fdd47f1129f79.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heading"
+      },
+      {
+        "id": 42911,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "направление",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/99784c01991a873a3bc5da6f4237215f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/99784c01991a873a3bc5da6f4237215f.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heading"
+      },
+      {
+        "id": 42912,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "ветвь штрека",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4b31013707a2bddfa8f00ca296abcbfa.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4b31013707a2bddfa8f00ca296abcbfa.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heading"
+      }
+    ]
+  },
+  {
+    "id": 8777,
+    "text": "hearty",
+    "meanings": [
+      {
+        "id": 202883,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "дружеский",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d7f39fc36387fd25ac4e36811355dcf6.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d7f39fc36387fd25ac4e36811355dcf6.png?w=640&h=480",
+        "transcription": "ˈhɑːti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearty"
+      },
+      {
+        "id": 202887,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "искренний",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b4beef1dd99b13d07dbe86aeb428e40e.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b4beef1dd99b13d07dbe86aeb428e40e.png?w=640&h=480",
+        "transcription": "ˈhɑːti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearty"
+      },
+      {
+        "id": 202884,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "обильный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7263346b3cad28a3b666a455f4063022.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7263346b3cad28a3b666a455f4063022.png?w=640&h=480",
+        "transcription": "ˈhɑːti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearty"
+      },
+      {
+        "id": 202886,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "здоровый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b2f2acb7341dc24efaf8036e21982c95.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b2f2acb7341dc24efaf8036e21982c95.png?w=640&h=480",
+        "transcription": "ˈhɑːti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearty"
+      },
+      {
+        "id": 202885,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "здоровый",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec4b0d94443a3829cd06d99cea48f55a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec4b0d94443a3829cd06d99cea48f55a.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearty"
+      }
+    ]
+  },
+  {
+    "id": 9651,
+    "text": "heady",
+    "meanings": [
+      {
+        "id": 146122,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "разумный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/16d2d705d1f2410f6a786ba7af004592.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/16d2d705d1f2410f6a786ba7af004592.png?w=640&h=480",
+        "transcription": "ˈhɛdi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heady"
+      },
+      {
+        "id": 146124,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "безрассудный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9a272e0f965c620797f51dde656920e2.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9a272e0f965c620797f51dde656920e2.png?w=640&h=480",
+        "transcription": "ˈhɛdi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heady"
+      },
+      {
+        "id": 146123,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "пьянящий",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c77ebd68e3d97879363687ef89bc0496.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c77ebd68e3d97879363687ef89bc0496.png?w=640&h=480",
+        "transcription": "ˈhɛdi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heady"
+      }
+    ]
+  },
+  {
+    "id": 9668,
+    "text": "headset",
+    "meanings": [
+      {
+        "id": 114992,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "гарнитура",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7ae9e8d4da16befcac0f0333832b0a1a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7ae9e8d4da16befcac0f0333832b0a1a.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdsɛt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%9Bds%C9%9Bt&transcription=1"
+      }
+    ]
+  },
+  {
+    "id": 10727,
+    "text": "healthful",
+    "meanings": [
+      {
+        "id": 12458,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "целебный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a14fe28efe8d64115cb9c54039cc8961.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a14fe28efe8d64115cb9c54039cc8961.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθfʊl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthful"
+      },
+      {
+        "id": 12459,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "здоровый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f7e9256c739b75762c386b6045262cbb.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f7e9256c739b75762c386b6045262cbb.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθfʊl",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthful"
+      }
+    ]
+  },
+  {
+    "id": 12280,
+    "text": "headdress",
+    "meanings": [
+      {
+        "id": 92300,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "головной убор",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a7dad3499e77caab584d6e999a8f7add.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a7dad3499e77caab584d6e999a8f7add.png?w=640&h=480",
+        "transcription": "ˈhɛddrɛs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headdress"
+      }
+    ]
+  },
+  {
+    "id": 12361,
+    "text": "head-on",
+    "meanings": [
+      {
+        "id": 127488,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "прямо",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d97ef8ab7fa6cf2ea6d97037b1af31fa.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d97ef8ab7fa6cf2ea6d97037b1af31fa.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdˈɒn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-on"
+      },
+      {
+        "id": 127489,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "фронтально",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4e802abe5c6684601c56ca9b8ac44113.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4e802abe5c6684601c56ca9b8ac44113.png?w=640&h=480",
+        "transcription": "ˈhɛdˈɒn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-on"
+      },
+      {
+        "id": 127486,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "недвусмысленно",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cc05a0515f4f6242b1b2e5544f7db787.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cc05a0515f4f6242b1b2e5544f7db787.png?w=640&h=480",
+        "transcription": "ˈhɛdˈɒn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-on"
+      },
+      {
+        "id": 127487,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "лобовой",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/45d15e25244ad402b43adbaebdc46a5e.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/45d15e25244ad402b43adbaebdc46a5e.png?w=640&h=480",
+        "transcription": "ˈhɛdˈɒn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-on"
+      }
+    ]
+  },
+  {
+    "id": 13438,
+    "text": "headway",
+    "meanings": [
+      {
+        "id": 127844,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "высота прохода",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d1ab171ff93cd5c1b53ead05280f5cec.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d1ab171ff93cd5c1b53ead05280f5cec.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdweɪ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headway"
+      },
+      {
+        "id": 127845,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "движение вперёд",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dd743779a99d8e7f59870d35844b1905.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dd743779a99d8e7f59870d35844b1905.png?w=640&h=480",
+        "transcription": "ˈhɛdweɪ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headway"
+      }
+    ]
+  },
+  {
+    "id": 13537,
+    "text": "headstone",
+    "meanings": [
+      {
+        "id": 157422,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "могильный камень",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/76d960e1e5f590889c06b4d7c97ca982.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/76d960e1e5f590889c06b4d7c97ca982.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdstəʊn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headstone"
+      },
+      {
+        "id": 157421,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "краеугольный камень",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/444cca58bbf9171cbcf4c2ef57f43d7f.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/444cca58bbf9171cbcf4c2ef57f43d7f.png?w=640&h=480",
+        "transcription": "ˈhɛdstəʊn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headstone"
+      }
+    ]
+  },
+  {
+    "id": 14086,
+    "text": "heartache",
+    "meanings": [
+      {
+        "id": 213013,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "душевная боль",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/eb3f1b2fa7bb08496531c9cb15f2d305.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/eb3f1b2fa7bb08496531c9cb15f2d305.png?w=640&h=480",
+        "transcription": "ˈhɑːteɪk",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartache"
+      }
+    ]
+  },
+  {
+    "id": 14178,
+    "text": "heartily",
+    "meanings": [
+      {
+        "id": 199846,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "охотно",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ea41bee7391861f6fc095a955fc90236.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ea41bee7391861f6fc095a955fc90236.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtɪli",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartily"
+      },
+      {
+        "id": 199847,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "искренне",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/539a333cfce02be0a53454fb63fe48b3.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/539a333cfce02be0a53454fb63fe48b3.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtɪli",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartily"
+      },
+      {
+        "id": 232889,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "искренне",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/215aee881c375197113ba8ce9f2a51d5.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/215aee881c375197113ba8ce9f2a51d5.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtɪli",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartily"
+      }
+    ]
+  },
+  {
+    "id": 14490,
+    "text": "headmaster",
+    "meanings": [
+      {
+        "id": 18834,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "директор",
+          "note": "школы"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/89e193d2e4a2638f375c2e3572ed1741.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/89e193d2e4a2638f375c2e3572ed1741.png?w=640&h=480",
+        "transcription": "ˌhɛdˈmɑːstə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headmaster"
+      }
+    ]
+  },
+  {
+    "id": 14749,
+    "text": "headboard",
+    "meanings": [
+      {
+        "id": 199470,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "изголовье",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e1d4f2e1650db3a94cda1e9323ff9659.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e1d4f2e1650db3a94cda1e9323ff9659.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdbɔːd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headboard"
+      }
+    ]
+  },
+  {
+    "id": 15049,
+    "text": "hearsay",
+    "meanings": [
+      {
+        "id": 171063,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "слух",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6c92a65c63cc84dfbf6c5176471bb368.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6c92a65c63cc84dfbf6c5176471bb368.jpeg?w=640&h=480",
+        "transcription": "ˈhɪəseɪ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearsay"
+      },
+      {
+        "id": 171064,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "слух",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e696fe2008028e368cfe21082c0da4d6.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e696fe2008028e368cfe21082c0da4d6.jpeg?w=640&h=480",
+        "transcription": "ˈhɪəseɪ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearsay"
+      }
+    ]
+  },
+  {
+    "id": 15079,
+    "text": "head-to-head",
+    "meanings": [
+      {
+        "id": 3805,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "лицом к лицу",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2cdf6c5e16044147133cab1b04d4ab61.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2cdf6c5e16044147133cab1b04d4ab61.jpeg?w=640&h=480",
+        "transcription": "hɛd tuː hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-to-head"
+      },
+      {
+        "id": 3804,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "приватный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f3bc0c86a71119bbcdc0b9ec5ca844f4.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f3bc0c86a71119bbcdc0b9ec5ca844f4.jpeg?w=640&h=480",
+        "transcription": "hɛd tuː hɛd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-to-head"
+      }
+    ]
+  },
+  {
+    "id": 15471,
+    "text": "heart-shaped",
+    "meanings": [
+      {
+        "id": 121557,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "в форме сердца ",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a49ad199043f405f6db071f6058e2fd2.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a49ad199043f405f6db071f6058e2fd2.png?w=640&h=480",
+        "transcription": "hɑːt ʃeɪpt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heart-shaped"
+      }
+    ]
+  },
+  {
+    "id": 15555,
+    "text": "heartless",
+    "meanings": [
+      {
+        "id": 120561,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "безразличный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/81cb1f4c4ca4c4d794ea2665f462a507.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/81cb1f4c4ca4c4d794ea2665f462a507.png?w=640&h=480",
+        "transcription": "ˈhɑːtlɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartless"
+      },
+      {
+        "id": 120560,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "бессердечный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b3c4362199535fa51b7dd01127d2c124.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b3c4362199535fa51b7dd01127d2c124.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtlɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartless"
+      }
+    ]
+  },
+  {
+    "id": 15833,
+    "text": "heartbroken",
+    "meanings": [
+      {
+        "id": 8639,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "убитый горем",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0c7b844d3abab71031e1e45051f43dc3.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0c7b844d3abab71031e1e45051f43dc3.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtˌbrəʊkən",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartbroken"
+      }
+    ]
+  },
+  {
+    "id": 15880,
+    "text": "headlong",
+    "meanings": [
+      {
+        "id": 161981,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "вперед головой",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f6afa0f6348c1b97af2b2ab0f1669066.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f6afa0f6348c1b97af2b2ab0f1669066.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlong"
+      },
+      {
+        "id": 161982,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "стремительно",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/93a1aeebd51c11ff474a8b6f3f696d9b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/93a1aeebd51c11ff474a8b6f3f696d9b.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlong"
+      },
+      {
+        "id": 161983,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "опроме́тчиво",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/22eaf90974f1671abd6cba743029638f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/22eaf90974f1671abd6cba743029638f.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlong"
+      },
+      {
+        "id": 161979,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "опрометью",
+          "note": null
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "ˈhɛdlɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlong"
+      },
+      {
+        "id": 161980,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "головой вперёд",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c5deae3ef2b541ac894bd72d5efd7c52.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c5deae3ef2b541ac894bd72d5efd7c52.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlong"
+      }
+    ]
+  },
+  {
+    "id": 16360,
+    "text": "headless",
+    "meanings": [
+      {
+        "id": 83549,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "безголовый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec60eca72a0dd65c5804b2b1a84c8c6e.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ec60eca72a0dd65c5804b2b1a84c8c6e.png?w=640&h=480",
+        "transcription": "ˈhɛdlɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headless"
+      },
+      {
+        "id": 83550,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "безмозглый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b114411dbc415ec526cfe77a7c07eefe.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b114411dbc415ec526cfe77a7c07eefe.png?w=640&h=480",
+        "transcription": "ˈhɛdlɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headless"
+      },
+      {
+        "id": 262868,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "бессмысленный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2f7cfaedef110fb2aeb375c134df5f03.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2f7cfaedef110fb2aeb375c134df5f03.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headless"
+      }
+    ]
+  },
+  {
+    "id": 16564,
+    "text": "headliner",
+    "meanings": [
+      {
+        "id": 234255,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "обшивка потолка",
+          "note": "в машине"
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1f4ae1ef2b11b71383f1f0425181e7e7.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1f4ae1ef2b11b71383f1f0425181e7e7.png?w=640&h=480",
+        "transcription": "ˈhɛdˌlaɪnə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headliner"
+      },
+      {
+        "id": 18910,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "популярный исполнитель",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c280532417c2b370b049b76f991c559e.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c280532417c2b370b049b76f991c559e.png?w=640&h=480",
+        "transcription": "ˈhɛdˌlaɪnə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headliner"
+      }
+    ]
+  },
+  {
+    "id": 16668,
+    "text": "headfirst",
+    "meanings": [
+      {
+        "id": 205500,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "головой вперёд",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f6afa0f6348c1b97af2b2ab0f1669066.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f6afa0f6348c1b97af2b2ab0f1669066.jpeg?w=640&h=480",
+        "transcription": "ˈhedˈfɜrst",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headfirst"
+      },
+      {
+        "id": 205499,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "головой вперёд",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5c100c82bae9ce44c58b34f507fa0001.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5c100c82bae9ce44c58b34f507fa0001.jpeg?w=640&h=480",
+        "transcription": "ˈhedˈfɜrst",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headfirst"
+      }
+    ]
+  },
+  {
+    "id": 16710,
+    "text": "header",
+    "meanings": [
+      {
+        "id": 126841,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "удар головой",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fc69c19b3f03244dbf8ce4ebb0066216.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fc69c19b3f03244dbf8ce4ebb0066216.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126839,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "ригель",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ac87f06d3e2ca22d117494254d22a77b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ac87f06d3e2ca22d117494254d22a77b.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126836,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "заголовок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3d86a6e23bd5eab26817f9437a89aa6a.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3d86a6e23bd5eab26817f9437a89aa6a.png?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126837,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "притолока",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/92b55874673e020dfc8d368d684639bb.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/92b55874673e020dfc8d368d684639bb.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126838,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "тычок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/46c20447516e4fceb1d958db1e95b884.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/46c20447516e4fceb1d958db1e95b884.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 235567,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "шапка ",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3387980a3592f597f6b0fed81aa50b0c.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3387980a3592f597f6b0fed81aa50b0c.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126842,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "прыжок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e006c2063ac27674e37b9c2431f5e964.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e006c2063ac27674e37b9c2431f5e964.png?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      },
+      {
+        "id": 126840,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "жатка",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e97e4d6deff08aaeab396e3ca3223720.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e97e4d6deff08aaeab396e3ca3223720.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=header"
+      }
+    ]
+  },
+  {
+    "id": 17689,
+    "text": "hearse",
+    "meanings": [
+      {
+        "id": 71794,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "катафалк ",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/20bfa8d12112cff2a6fd2370075ca7c2.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/20bfa8d12112cff2a6fd2370075ca7c2.png?w=640&h=480",
+        "transcription": "hɜːs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%9C%CB%90s&transcription=1"
+      }
+    ]
+  },
+  {
+    "id": 17795,
+    "text": "headlamp",
+    "meanings": [
+      {
+        "id": 134967,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "фара",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8594ae220c361a7915143baac7c6b59d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8594ae220c361a7915143baac7c6b59d.jpeg?w=640&h=480",
+        "transcription": "ˈhedlæmp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlamp"
+      }
+    ]
+  },
+  {
+    "id": 18052,
+    "text": "hearten",
+    "meanings": [
+      {
+        "id": 126627,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "воодушевить",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b95826ff276ffc70d058eb9f5a11966d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b95826ff276ffc70d058eb9f5a11966d.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearten"
+      },
+      {
+        "id": 232598,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "удобрять",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7c73d68d3d3c900d47582a1c85fcc35e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/7c73d68d3d3c900d47582a1c85fcc35e.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearten"
+      }
+    ]
+  },
+  {
+    "id": 18407,
+    "text": "headland",
+    "meanings": [
+      {
+        "id": 85814,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "мыс",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3ceb7037cf8a394c659af2392c2a2b78.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3ceb7037cf8a394c659af2392c2a2b78.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdlənd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headland"
+      }
+    ]
+  },
+  {
+    "id": 18593,
+    "text": "headman",
+    "meanings": [
+      {
+        "id": 131942,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "палач",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5fcd1a490b6c6a13af5f51371c2fe168.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5fcd1a490b6c6a13af5f51371c2fe168.png?w=640&h=480",
+        "transcription": "ˈhɛdmən",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headman"
+      },
+      {
+        "id": 131943,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "вождь",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e953588e16150da9644d680061595245.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e953588e16150da9644d680061595245.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdmən",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headman"
+      }
+    ]
+  },
+  {
+    "id": 18618,
+    "text": "heartwarming",
+    "meanings": [
+      {
+        "id": 51667,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "трогательный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d2af17e3dd721002c60db5f3cd38b45e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d2af17e3dd721002c60db5f3cd38b45e.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtˌwɔːmɪŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%91%CB%90t%CB%8Cw%C9%94%CB%90m%C9%AA%C5%8B&transcription=1"
+      }
+    ]
+  },
+  {
+    "id": 18725,
+    "text": "headgear",
+    "meanings": [
+      {
+        "id": 63892,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "головной убор",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a7dad3499e77caab584d6e999a8f7add.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a7dad3499e77caab584d6e999a8f7add.png?w=640&h=480",
+        "transcription": "ˈhɛdgɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headgear"
+      },
+      {
+        "id": 63893,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "наголовье",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/45b4b95803766f7e0a124c42ab177bb6.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/45b4b95803766f7e0a124c42ab177bb6.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdgɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headgear"
+      },
+      {
+        "id": 63894,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "шлем",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/df55fc3b37b0d8e18d0f081290b175f7.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/df55fc3b37b0d8e18d0f081290b175f7.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdgɪə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headgear"
+      }
+    ]
+  },
+  {
+    "id": 19659,
+    "text": "hedgehog",
+    "meanings": [
+      {
+        "id": 73558,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "ёж",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6b00fb2d3f40cba24a2e70c8c88abd9d.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6b00fb2d3f40cba24a2e70c8c88abd9d.png?w=640&h=480",
+        "transcription": "ˈhɛʤhɒg",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88h%C9%9B%CA%A4h%C9%92g&transcription=1"
+      },
+      {
+        "id": 73557,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "еж",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8f1d72486713e79b8904bbe1a4b7da05.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/8f1d72486713e79b8904bbe1a4b7da05.jpeg?w=640&h=480",
+        "transcription": "ˈhɛʤhɒg",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 19832,
+    "text": "headstrong",
+    "meanings": [
+      {
+        "id": 151300,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "упрямый",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3cc0734defa7dd02b6fb8c8705aebddb.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3cc0734defa7dd02b6fb8c8705aebddb.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdstrɒŋ",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headstrong"
+      }
+    ]
+  },
+  {
+    "id": 20156,
+    "text": "headrest",
+    "meanings": [
+      {
+        "id": 195685,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "подголовник",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/747269ae3473acd9893fc2c8a54d3933.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/747269ae3473acd9893fc2c8a54d3933.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdˌrɛst",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headrest"
+      },
+      {
+        "id": 195684,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "подголовник",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd8fbe1971e860a506f8c5a9c70a22a0.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/bd8fbe1971e860a506f8c5a9c70a22a0.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdˌrɛst",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headrest"
+      }
+    ]
+  },
+  {
+    "id": 20383,
+    "text": "headed",
+    "meanings": [
+      {
+        "id": 96398,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "направленный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a6cded5cdf7b1d7ef26a23dad4479c21.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a6cded5cdf7b1d7ef26a23dad4479c21.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headed"
+      },
+      {
+        "id": 96399,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "озаглавленный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e77e4fa639428822353bff1535ab5c1a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/e77e4fa639428822353bff1535ab5c1a.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headed"
+      },
+      {
+        "id": 96400,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "озаглавленный",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fae06c96f527d72e7481f488786ede03.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fae06c96f527d72e7481f488786ede03.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdɪd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headed"
+      }
+    ]
+  },
+  {
+    "id": 20453,
+    "text": "headscarf",
+    "meanings": [
+      {
+        "id": 59098,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "платок",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b582d63b1e31e9e501218aa0ffea390b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/b582d63b1e31e9e501218aa0ffea390b.jpeg?w=640&h=480",
+        "transcription": "ˈhed.skɑːf",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headscarf"
+      }
+    ]
+  },
+  {
+    "id": 20476,
+    "text": "headhunter",
+    "meanings": [
+      {
+        "id": 60205,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "агент по найму",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4250457f295df36481fc8ca482ce952d.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4250457f295df36481fc8ca482ce952d.png?w=640&h=480",
+        "transcription": "ˈhedˌhʌn.tər",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headhunter"
+      },
+      {
+        "id": 60206,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "охотник за головами",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/54fb459c51d0b60226a54df953fdc7b8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/54fb459c51d0b60226a54df953fdc7b8.jpeg?w=640&h=480",
+        "transcription": "ˈhedˌhʌn.tər",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headhunter"
+      }
+    ]
+  },
+  {
+    "id": 20674,
+    "text": "hearer",
+    "meanings": [
+      {
+        "id": 187095,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "слушатель",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3f607ecacf8f724d7f80aeb61779b638.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3f607ecacf8f724d7f80aeb61779b638.jpeg?w=640&h=480",
+        "transcription": "ˈhɪərə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearer"
+      }
+    ]
+  },
+  {
+    "id": 20975,
+    "text": "hell-bent",
+    "meanings": [
+      {
+        "id": 181957,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "безрассудный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dedbc1e16a6f6d6ad3a0bc2a4559e514.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dedbc1e16a6f6d6ad3a0bc2a4559e514.png?w=640&h=480",
+        "transcription": "ˈhɛlbɛnt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hell-bent"
+      }
+    ]
+  },
+  {
+    "id": 21291,
+    "text": "headroom",
+    "meanings": [
+      {
+        "id": 160187,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "габаритная высота",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d1ab171ff93cd5c1b53ead05280f5cec.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d1ab171ff93cd5c1b53ead05280f5cec.jpeg?w=640&h=480",
+        "transcription": "ˈhed.ruːm/-rʊm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headroom"
+      },
+      {
+        "id": 160188,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "динамический диапазон",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d01d18d1ced211f1cadf3734845233fd.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d01d18d1ced211f1cadf3734845233fd.png?w=640&h=480",
+        "transcription": "ˈhed.ruːm/-rʊm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headroom"
+      }
+    ]
+  },
+  {
+    "id": 179098,
+    "text": "heads",
+    "meanings": [
+      {
+        "id": 254893,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "орёл",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ceb2cdda5d01b92f7f1478c94b16acfc.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ceb2cdda5d01b92f7f1478c94b16acfc.png?w=640&h=480",
+        "transcription": "hɛdz",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heads"
+      }
+    ]
+  },
+  {
+    "id": 23077,
+    "text": "headpiece",
+    "meanings": [
+      {
+        "id": 10537,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "шлем",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/405648a9a0017bcf885d7636eeb839d9.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/405648a9a0017bcf885d7636eeb839d9.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdpiːs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headpiece"
+      },
+      {
+        "id": 10536,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "недоуздок",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f0f6361b428e7f07f9c3ee893bb15f50.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f0f6361b428e7f07f9c3ee893bb15f50.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdpiːs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headpiece"
+      }
+    ]
+  },
+  {
+    "id": 23278,
+    "text": "heads-up",
+    "meanings": [
+      {
+        "id": 153489,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "предостережение",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/584cf0f52394379399759c35e842f82a.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/584cf0f52394379399759c35e842f82a.png?w=640&h=480",
+        "transcription": "hɛdz ʌp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heads-up"
+      }
+    ]
+  },
+  {
+    "id": 23489,
+    "text": "headmistress",
+    "meanings": [
+      {
+        "id": 220550,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "директриса",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4f532f449e86656e7269d10cee09dc14.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4f532f449e86656e7269d10cee09dc14.png?w=640&h=480",
+        "transcription": "ˌhɛdˈmɪstrəs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headmistress"
+      }
+    ]
+  },
+  {
+    "id": 23562,
+    "text": "hearken",
+    "meanings": [
+      {
+        "id": 209661,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "внимать",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5a6e2f6360725742d4d2edc3545731ff.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5a6e2f6360725742d4d2edc3545731ff.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːkən",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearken"
+      }
+    ]
+  },
+  {
+    "id": 24025,
+    "text": "hematoma",
+    "meanings": [
+      {
+        "id": 66035,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "гематома",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a1c110c71a6c6174c4e560d073e3ae78.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a1c110c71a6c6174c4e560d073e3ae78.jpeg?w=640&h=480",
+        "transcription": "hiː.məˈtəʊ.mə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hematoma"
+      }
+    ]
+  },
+  {
+    "id": 24406,
+    "text": "hemophilia",
+    "meanings": [
+      {
+        "id": 37437,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "гемофилия",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fb4ad261cec69071ad95763468bcd27a.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/fb4ad261cec69071ad95763468bcd27a.png?w=640&h=480",
+        "transcription": "ˌhiː.məˈfɪl.i.ə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hemophilia"
+      }
+    ]
+  },
+  {
+    "id": 25331,
+    "text": "headlock",
+    "meanings": [
+      {
+        "id": 109708,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "захват",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/da8109b21fdafa73ccc438e72e115710.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/da8109b21fdafa73ccc438e72e115710.jpeg?w=640&h=480",
+        "transcription": "ˈhedlɒk",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headlock"
+      }
+    ]
+  },
+  {
+    "id": 27546,
+    "text": "heart-to-heart",
+    "meanings": [
+      {
+        "id": 113081,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "душевный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c05c2c1237aca3fc995c58b78789b6d2.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c05c2c1237aca3fc995c58b78789b6d2.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtəˈhɑːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heart-to-heart"
+      },
+      {
+        "id": 113082,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "откровенный",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae35c5096286a7fe4081f137b1c93bc5.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae35c5096286a7fe4081f137b1c93bc5.png?w=640&h=480",
+        "transcription": "ˈhɑːtəˈhɑːt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heart-to-heart"
+      }
+    ]
+  },
+  {
+    "id": 30075,
+    "text": "healed",
+    "meanings": [
+      {
+        "id": 116820,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "выздоровевший",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1f8eeeaa20153ecdfbd3d0852e1e9700.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/1f8eeeaa20153ecdfbd3d0852e1e9700.png?w=640&h=480",
+        "transcription": "hiːld",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healed"
+      }
+    ]
+  },
+  {
+    "id": 30778,
+    "text": "headcount",
+    "meanings": [
+      {
+        "id": 13967,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "численность",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f306993f703d5c5142acf63992fd2ab2.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/f306993f703d5c5142acf63992fd2ab2.png?w=640&h=480",
+        "transcription": "ˈhed.kaʊnt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headcount"
+      }
+    ]
+  },
+  {
+    "id": 31218,
+    "text": "headshot",
+    "meanings": [
+      {
+        "id": 122944,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "удар головой мяча в футболе",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ef7ea6390274c2e097d56c7fb939b5a.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ef7ea6390274c2e097d56c7fb939b5a.jpeg?w=640&h=480",
+        "transcription": "hɛd ʃɒt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headshot"
+      },
+      {
+        "id": 122945,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "выстрел в голову",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4d05656a39cb320873fcb4db4f1424b1.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4d05656a39cb320873fcb4db4f1424b1.jpeg?w=640&h=480",
+        "transcription": "hɛd ʃɒt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headshot"
+      },
+      {
+        "id": 122943,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "фотография головы",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/abd225576d49b3bbc2a7d65984927a3f.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/abd225576d49b3bbc2a7d65984927a3f.jpeg?w=640&h=480",
+        "transcription": "hɛd ʃɒt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headshot"
+      }
+    ]
+  },
+  {
+    "id": 31500,
+    "text": "healthily",
+    "meanings": [
+      {
+        "id": 156108,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "здорово",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/85e78d8872a1f82728669983ce5d6561.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/85e78d8872a1f82728669983ce5d6561.png?w=640&h=480",
+        "transcription": "ˈhɛlθɪli",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthily"
+      }
+    ]
+  },
+  {
+    "id": 32008,
+    "text": "heartwood",
+    "meanings": [
+      {
+        "id": 127453,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "сердцевина",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d82c2cf4e65a8a7625c05993ff9aed7e.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d82c2cf4e65a8a7625c05993ff9aed7e.jpeg?w=640&h=480",
+        "transcription": "'hɑ:twud",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartwood"
+      }
+    ]
+  },
+  {
+    "id": 32951,
+    "text": "hematology",
+    "meanings": [
+      {
+        "id": 99764,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "гематология",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9126c21d5c3426a0cb80347c9290152c.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9126c21d5c3426a0cb80347c9290152c.jpeg?w=640&h=480",
+        "transcription": "ˌhiː.məˈtɒl.ə.dʒi",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hematology"
+      }
+    ]
+  },
+  {
+    "id": 33257,
+    "text": "headspace",
+    "meanings": [
+      {
+        "id": 77643,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "свободное пространство",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3598cb6df1a410d533f7329f0c497617.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/3598cb6df1a410d533f7329f0c497617.jpeg?w=640&h=480",
+        "transcription": "hɛd speɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headspace"
+      },
+      {
+        "id": 252673,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "состояние сознания",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae461b96d6f700f2730fecd989d0bf40.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ae461b96d6f700f2730fecd989d0bf40.png?w=640&h=480",
+        "transcription": "hɛd speɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headspace"
+      }
+    ]
+  },
+  {
+    "id": 33992,
+    "text": "hearthstone",
+    "meanings": [
+      {
+        "id": 27442,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "плоский камень",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cb4277314f4a9fbd63bb80f1c287641b.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/cb4277314f4a9fbd63bb80f1c287641b.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːθstəʊn",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearthstone"
+      }
+    ]
+  },
+  {
+    "id": 34450,
+    "text": "healthfulness",
+    "meanings": [
+      {
+        "id": 39805,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "целебность",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ec6e12f649687fb1ec368462c1d14f8.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0ec6e12f649687fb1ec368462c1d14f8.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθfʊlnəs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthfulness"
+      }
+    ]
+  },
+  {
+    "id": 34548,
+    "text": "headship",
+    "meanings": [
+      {
+        "id": 148757,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "главенство",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ca7c1cfabb7f304116611e59db75a1f4.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ca7c1cfabb7f304116611e59db75a1f4.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdʃɪp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headship"
+      },
+      {
+        "id": 148758,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "главенство",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0096d8efb7c983087d4594c3329f4169.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/0096d8efb7c983087d4594c3329f4169.jpeg?w=640&h=480",
+        "transcription": "ˈhɛdʃɪp",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headship"
+      }
+    ]
+  },
+  {
+    "id": 34632,
+    "text": "heartiness",
+    "meanings": [
+      {
+        "id": 77812,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "сердечность",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/86a1a927260c30d0ceed4846602346bd.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/86a1a927260c30d0ceed4846602346bd.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtɪnɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartiness"
+      },
+      {
+        "id": 77811,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "сердечность",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6719b8ca4c0814fd2f9c02b42f4d1a1d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6719b8ca4c0814fd2f9c02b42f4d1a1d.jpeg?w=640&h=480",
+        "transcription": "ˈhɑːtɪnɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartiness"
+      }
+    ]
+  },
+  {
+    "id": 35053,
+    "text": "headwater",
+    "meanings": [
+      {
+        "id": 219098,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "исток",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/026ae7f1cb9911c88eb758605086d5f1.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/026ae7f1cb9911c88eb758605086d5f1.jpeg?w=640&h=480",
+        "transcription": "hˈedwɔːtə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headwater"
+      }
+    ]
+  },
+  {
+    "id": 36440,
+    "text": "heartlessly",
+    "meanings": [
+      {
+        "id": 27597,
+        "partOfSpeechCode": "r",
+        "translation": {
+          "text": "бессердечно",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dfb8e07e74cd2871dcdf973167c3f819.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/dfb8e07e74cd2871dcdf973167c3f819.png?w=640&h=480",
+        "transcription": "ˈhɑːtlɪsli",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heartlessly"
+      }
+    ]
+  },
+  {
+    "id": 117877,
+    "text": "health facility",
+    "meanings": [
+      {
+        "id": 121547,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "медицинское учреждение",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5787dc6651993c9ee72db33598d032dc.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5787dc6651993c9ee72db33598d032dc.jpeg?w=640&h=480",
+        "transcription": "hɛlθ fəˈsɪlɪti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health+facility"
+      }
+    ]
+  },
+  {
+    "id": 64511,
+    "text": "head home",
+    "meanings": [
+      {
+        "id": 91767,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "отправляться по домам",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9357211fdd5a357645ff5600e91fcc19.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/9357211fdd5a357645ff5600e91fcc19.png?w=640&h=480",
+        "transcription": "hɛd həʊm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head+home"
+      }
+    ]
+  },
+  {
+    "id": 95725,
+    "text": "hearing loss",
+    "meanings": [
+      {
+        "id": 145440,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "глухота",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2881c5f3d1448840da8c01f4ff0405f5.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/2881c5f3d1448840da8c01f4ff0405f5.png?w=640&h=480",
+        "transcription": "ˈhɪərɪŋ lɒs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hearing+loss"
+      }
+    ]
+  },
+  {
+    "id": 111699,
+    "text": "health problem",
+    "meanings": [
+      {
+        "id": 77993,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "проблема со здоровьем",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/64ef5a947be8bdf80430f4357788cbf0.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/64ef5a947be8bdf80430f4357788cbf0.jpeg?w=640&h=480",
+        "transcription": "hɛlθ ˈprɒbləm",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health+problem"
+      }
+    ]
+  },
+  {
+    "id": 177067,
+    "text": "health and safety",
+    "meanings": [
+      {
+        "id": 251468,
+        "partOfSpeechCode": "ph",
+        "translation": {
+          "text": "здоровье и безопасность",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/27ffed65c03cd2ab33d848786526f110.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/27ffed65c03cd2ab33d848786526f110.png?w=640&h=480",
+        "transcription": "hɛlθ ænd ˈseɪfti",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health+and+safety"
+      }
+    ]
+  },
+  {
+    "id": 183950,
+    "text": "head-cross wind",
+    "meanings": [
+      {
+        "id": 260915,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "встречно-боковой ветер",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a041012a7c88ecc46d612e084a9b22ee.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/a041012a7c88ecc46d612e084a9b22ee.jpeg?w=640&h=480",
+        "transcription": "hɛd krɒs wɪnd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-cross+wind"
+      }
+    ]
+  },
+  {
+    "id": 93771,
+    "text": "head teacher",
+    "meanings": [
+      {
+        "id": 261598,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "преподаватель-методист",
+          "note": ""
+        },
+        "previewUrl": "",
+        "imageUrl": "",
+        "transcription": "hɛd ˈtiːʧə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head+teacher"
+      }
+    ]
+  },
+  {
+    "id": 133392,
+    "text": "head-in-the-clouds",
+    "meanings": [
+      {
+        "id": 178904,
+        "partOfSpeechCode": "j",
+        "translation": {
+          "text": "витающий в облаках",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c0679551a0f85b032d1a00e953b65d73.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/c0679551a0f85b032d1a00e953b65d73.jpeg?w=640&h=480",
+        "transcription": "hɛd ɪn ðə klaʊdz",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head-in-the-clouds"
+      }
+    ]
+  },
+  {
+    "id": 185706,
+    "text": "health scare",
+    "meanings": [
+      {
+        "id": 263260,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "приступ",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5e0669236fe192cc0ee28599bbc5d1f7.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/5e0669236fe192cc0ee28599bbc5d1f7.jpeg?w=640&h=480",
+        "transcription": "hɛlθ skeə",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=health+scare"
+      }
+    ]
+  },
+  {
+    "id": 96586,
+    "text": "heart attack",
+    "meanings": [
+      {
+        "id": 166822,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "инфаркт",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/697e32378fb8d965b813d780f54f6b2c.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/697e32378fb8d965b813d780f54f6b2c.jpeg?w=640&h=480",
+        "transcription": "hɑːt əˈtæk",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=heart+attack"
+      }
+    ]
+  },
+  {
+    "id": 54249,
+    "text": "headbutt",
+    "meanings": [
+      {
+        "id": 41723,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "ударять головой",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/608ae96ded358522d9af35339193af1d.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/608ae96ded358522d9af35339193af1d.jpeg?w=640&h=480",
+        "transcription": "ˈhedbʌt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=headbutt"
+      }
+    ]
+  },
+  {
+    "id": 57492,
+    "text": "hear out",
+    "meanings": [
+      {
+        "id": 95060,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "выслушивать",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6dbd08c389b5b50a8498def448d88cca.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6dbd08c389b5b50a8498def448d88cca.jpeg?w=640&h=480",
+        "transcription": "hɪə aʊt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=hear+out"
+      }
+    ]
+  },
+  {
+    "id": 175057,
+    "text": "head out",
+    "meanings": [
+      {
+        "id": 249229,
+        "partOfSpeechCode": "v",
+        "translation": {
+          "text": "отправляться",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6c5879fe578da940773410232bd6b8a5.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/6c5879fe578da940773410232bd6b8a5.png?w=640&h=480",
+        "transcription": "hɛd aʊt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head+out"
+      }
+    ]
+  },
+  {
+    "id": 164686,
+    "text": "healthy food",
+    "meanings": [
+      {
+        "id": 232213,
+        "partOfSpeechCode": "n",
+        "translation": {
+          "text": "здоровая пища",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d504967f8993e3c88252c4129d695576.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/d504967f8993e3c88252c4129d695576.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi fuːd",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy+food"
+      }
+    ]
+  },
+  {
+    "id": 157976,
+    "text": "head office",
+    "meanings": [
+      {
+        "id": 230457,
+        "partOfSpeechCode": "ph",
+        "translation": {
+          "text": "главный офис",
+          "note": ""
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4c65b17728c48d813d3bb1f12fcc8e79.png?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/4c65b17728c48d813d3bb1f12fcc8e79.png?w=640&h=480",
+        "transcription": "hɛd ˈɒfɪs",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=head+office"
+      }
+    ]
+  },
+  {
+    "id": 163929,
+    "text": "healthy profit",
+    "meanings": [
+      {
+        "id": 230962,
+        "partOfSpeechCode": "ph",
+        "translation": {
+          "text": "разумная прибыль",
+          "note": null
+        },
+        "previewUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ba6bd8e47f5497036313af5d3626b4cd.jpeg?w=96&h=72",
+        "imageUrl": "//d2zkmv5t5kao9.cloudfront.net/images/ba6bd8e47f5497036313af5d3626b4cd.jpeg?w=640&h=480",
+        "transcription": "ˈhɛlθi ˈprɒfɪt",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=healthy+profit"
+      }
+    ]
+  }
+]

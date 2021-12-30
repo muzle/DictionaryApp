@@ -1,4 +1,7 @@
 PODS:
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
   - SnapKit (5.0.1)
   - Sourcery (1.6.1):
     - Sourcery/CLI-Only (= 1.6.1)
@@ -7,6 +10,7 @@ PODS:
   - SwiftLint (0.45.1)
 
 DEPENDENCIES:
+  - SDWebImage (~> 5.0)
   - SnapKit
   - Sourcery
   - SwiftGen (~> 6.0)
@@ -14,17 +18,19 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
+    - SDWebImage
     - SnapKit
     - Sourcery
     - SwiftGen
     - SwiftLint
 
 SPEC CHECKSUMS:
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
   Sourcery: f3759f803bd0739f74fc92a4341eed0473ce61ac
   SwiftGen: a6d22010845f08fe18fbdf3a07a8e380fd22e0ea
   SwiftLint: 06ac37e4d38c7068e0935bb30cda95f093bec761
 
-PODFILE CHECKSUM: df1de6094da5feb4c156fbe5903e790235c898bc
+PODFILE CHECKSUM: a1a0950d7bbe6cc284b0e61d874fd10fa31d43c9
 
 COCOAPODS: 1.11.2

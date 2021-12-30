@@ -1,0 +1,218 @@
+[
+  {
+    "id": "147323",
+    "wordId": 1949,
+    "difficultyLevel": 1,
+    "partOfSpeechCode": "n",
+    "prefix": null,
+    "text": "hello",
+    "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=h%C9%9B%CB%88l%C9%99%CA%8A&transcription=1",
+    "transcription": "hɛˈləʊ",
+    "properties": {},
+    "updatedAt": "2021-11-23 18:59:23",
+    "mnemonics": null,
+    "translation": {
+      "text": "приветствие",
+      "note": null
+    },
+    "images": [
+      {
+        "url": "//d2zkmv5t5kao9.cloudfront.net/images/29afbf0985bbed8d91ded344881fa656.jpeg?w=200&h=150&q=50"
+      }
+    ],
+    "definition": {
+      "text": "An expression of greeting.",
+      "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=an+expression+of+greeting"
+    },
+    "examples": [
+      {
+        "text": "I didn't hear your [hello], there was too much noise.",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=I+didn%27t+hear+your+hello+there+was+too+much+noise."
+      },
+      {
+        "text": "Every morning they exchanged polite [hellos].",
+        "soundUrl": "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=Every+morning+they+exchanged+polite+hellos."
+      }
+    ],
+    "meaningsWithSimilarTranslation": [
+      {
+        "meaningId": 147323,
+        "frequencyPercent": "100.0",
+        "partOfSpeechAbbreviation": "сущ.",
+        "translation": {
+          "text": "приветствие",
+          "note": null
+        }
+      },
+      {
+        "meaningId": 236167,
+        "frequencyPercent": "0.0",
+        "partOfSpeechAbbreviation": "межд.",
+        "translation": {
+          "text": "алло",
+          "note": null
+        }
+      },
+      {
+        "meaningId": 236171,
+        "frequencyPercent": "0.0",
+        "partOfSpeechAbbreviation": "межд.",
+        "translation": {
+          "text": "привет",
+          "note": ""
+        }
+      },
+      {
+        "meaningId": 233664,
+        "frequencyPercent": "0.0",
+        "partOfSpeechAbbreviation": "межд.",
+        "translation": {
+          "text": "здравствуйте",
+          "note": null
+        }
+      }
+    ],
+    "alternativeTranslations": [
+      {
+        "text": "eve",
+        "translation": {
+          "text": "канун",
+          "note": null
+        }
+      },
+      {
+        "text": "lurch",
+        "translation": {
+          "text": "пошатывание",
+          "note": null
+        }
+      },
+      {
+        "text": "cicada",
+        "translation": {
+          "text": "цикада",
+          "note": null
+        }
+      },
+      {
+        "text": "packing",
+        "translation": {
+          "text": "упаковывание",
+          "note": null
+        }
+      },
+      {
+        "text": "purity",
+        "translation": {
+          "text": "непорочность",
+          "note": null
+        }
+      },
+      {
+        "text": "tooth",
+        "translation": {
+          "text": "цепляние",
+          "note": null
+        }
+      },
+      {
+        "text": "orb",
+        "translation": {
+          "text": "глазное яблоко",
+          "note": null
+        }
+      },
+      {
+        "text": "tempo",
+        "translation": {
+          "text": "ритм ",
+          "note": null
+        }
+      },
+      {
+        "text": "duel",
+        "translation": {
+          "text": "дуэль",
+          "note": null
+        }
+      },
+      {
+        "text": "seaman",
+        "translation": {
+          "text": "моряк",
+          "note": null
+        }
+      },
+      {
+        "text": "sieve",
+        "translation": {
+          "text": "сито",
+          "note": null
+        }
+      },
+      {
+        "text": "sheath",
+        "translation": {
+          "text": "ножны",
+          "note": null
+        }
+      },
+      {
+        "text": "lair",
+        "translation": {
+          "text": "логово",
+          "note": null
+        }
+      },
+      {
+        "text": "weekly",
+        "translation": {
+          "text": "еженедельник",
+          "note": null
+        }
+      },
+      {
+        "text": "royalty",
+        "translation": {
+          "text": "королевская семья",
+          "note": null
+        }
+      },
+      {
+        "text": "acidity",
+        "translation": {
+          "text": "кислотность",
+          "note": null
+        }
+      },
+      {
+        "text": "belle",
+        "translation": {
+          "text": "красавица",
+          "note": null
+        }
+      },
+      {
+        "text": "patina",
+        "translation": {
+          "text": "налет",
+          "note": null
+        }
+      },
+      {
+        "text": "heretic",
+        "translation": {
+          "text": "еретик",
+          "note": null
+        }
+      },
+      {
+        "text": "haves",
+        "translation": {
+          "text": "богатые",
+          "note": "о людях, классах, странах"
+        }
+      }
+    ]
+  }
+]
