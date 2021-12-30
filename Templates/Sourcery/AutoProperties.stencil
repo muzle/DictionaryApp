@@ -1,0 +1,9 @@
+import Foundation
+
+{% for type in types.implementing.AutoProperties %}// MARK: - {{type.name}}
+{% for property in type.storedVariables|!annotated:"skipComposition" %}{% set protoName %}{{ "Has" }}{{ property.name|titlecase }}{% endset %}
+
+protocol {{ protoName }} { var {{ property.name }}: {{ property.actualTypeName }} { get } }
+extension {{ type.name }}: {{ protoName }} { }
+{% endfor %}
+{% endfor %}

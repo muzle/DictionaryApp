@@ -1,0 +1,47 @@
+import Foundation
+
+enum {{ module_info.name }}SceneUnit: UnitType {
+    enum Event {
+    }
+    typealias Delegate = {{ module_info.name }}SceneDelegate
+    typealias Handler = {{ module_info.name }}ScenePresenter
+}
+
+protocol {{ module_info.name }}ScenePresenter {
+    
+}
+
+final class {{ module_info.name }}ScenePresenterImpl: PresenterType {
+    typealias Unit = {{ module_info.name }}SceneUnit
+    typealias Delegate = Unit.Delegate
+    typealias Router = Unit.Router
+    typealias Context = NoContext
+    struct Configuration {
+    }
+    
+    private let context: Context
+    private weak var delegate: Delegate?
+    private let configuration: Configuration
+    private let router: Router
+    
+    init(
+        context: Context,
+        configuration: Configuration,
+        router: Router
+    ) {
+        self.context = context
+        self.configuration = configuration
+        self.router = router
+    }
+    
+    func attach(delegate: Delegate) -> Unit.Handler {
+        self.delegate = delegate
+        return self
+    }
+}
+
+// MARK: - Implement {{ module_info.name }}Presenter
+
+extension {{ module_info.name }}ScenePresenterImpl: {{ module_info.name }}ScenePresenter {
+    
+}

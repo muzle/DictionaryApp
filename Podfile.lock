@@ -1,16 +1,26 @@
 PODS:
+  - SnapKit (5.0.1)
+  - Sourcery (1.6.1):
+    - Sourcery/CLI-Only (= 1.6.1)
+  - Sourcery/CLI-Only (1.6.1)
   - SwiftLint (0.45.1)
 
 DEPENDENCIES:
+  - SnapKit
+  - Sourcery
   - SwiftLint
 
 SPEC REPOS:
   trunk:
+    - SnapKit
+    - Sourcery
     - SwiftLint
 
 SPEC CHECKSUMS:
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Sourcery: f3759f803bd0739f74fc92a4341eed0473ce61ac
   SwiftLint: 06ac37e4d38c7068e0935bb30cda95f093bec761
 
-PODFILE CHECKSUM: d85f409073d9db086f0cc2ad156bcef90585b4b0
+PODFILE CHECKSUM: 0b200419f3c3266361932d6376f66edaa76786c6
 
 COCOAPODS: 1.11.2

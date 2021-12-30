@@ -1,0 +1,26 @@
+import UIKit
+
+protocol CoordinatorsFactory {
+{% for type in types.implementing.AutoCoordinatorType %}
+{% for initializer in type.initializers|!annotated:"skipComposition" %}
+    func make{{type.name}}(
+        {% for parameter in initializer.parameters %}{% if parameter.typeName|!contains:"Context" %}{{parameter.name}}: {{parameter.typeName.actualTypeName|default:parameter.typeName}}{% if initializer.parameters.last.name != parameter.name %},{% endif %}{% endif %}
+        {% endfor %}
+    ) -> {{type.name}}
+{% endfor %}{% endfor %}
+}
+
+extension Context: CoordinatorsFactory {
+{% for type in types.implementing.AutoCoordinatorType %}
+{% for initializer in type.initializers|!annotated:"skipComposition" %}
+    func make{{type.name}}(
+        {% for parameter in initializer.parameters %}{% if parameter.typeName|!contains:"Context" %}{{parameter.name}}: {{parameter.typeName.actualTypeName|default:parameter.typeName}}{% if initializer.parameters.last.name != parameter.name %},{% endif %}{% endif %}
+        {% endfor %}
+    ) -> {{ type.name }} {
+        {{ type.name }}(
+                {% for parameter in initializer.parameters %}{{parameter.name}}: {% if parameter.typeName|contains:"Context" %}self{% else %}{{parameter.name}}{% endif %}{% if initializer.parameters.last.name != parameter.name %},{% endif %}
+                {% endfor %}
+        )
+    }
+{% endfor %}{% endfor %}
+}

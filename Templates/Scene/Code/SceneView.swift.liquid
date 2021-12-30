@@ -1,0 +1,45 @@
+import UIKit
+import SnapKit
+
+private struct Constants {
+}
+private let constants = Constants()
+
+final class {{ module_info.name }}SceneView: UIView {
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        commonInit()
+    }
+    
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
+        commonInit()
+    }
+}
+
+// MARK: - CommonInit
+
+private extension {{ module_info.name }}SceneView {
+    func commonInit() {
+        setConstraints()
+        localize()
+        setUI()
+        applyStyle()
+    }
+    
+    func setConstraints() {
+        
+    }
+    
+    func localize() {
+        
+    }
+
+    func setUI() {
+        
+    }
+    
+    func applyStyle() {
+        applyViewStyle(ViewStyleFatory.View.commonSceneBackground)
+    }
+}

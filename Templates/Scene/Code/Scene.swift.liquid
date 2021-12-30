@@ -1,0 +1,48 @@
+import UIKit
+
+final class {{ module_info.name }}Scene: UIViewController {
+    typealias Unit = {{ module_info.name }}SceneUnit
+    typealias Presenter = Unit.Handler
+    typealias ContentView = {{ module_info.name }}SceneView
+    
+    private var presenter: Presenter!
+    private lazy var contentView = ContentView()
+}
+
+// MARK: - Life cycle
+
+extension {{ module_info.name }}Scene {
+    override func loadView() {
+        view = contentView
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        if presenter == nil {
+            preconditionFailure("presenter must be assigned before viewDidLoad")
+        }
+        commonInit()
+    }
+}
+
+// MARK: - Implement {{ module_info.name }}SceneDelegate
+
+extension {{ module_info.name }}Scene: {{ module_info.name }}SceneDelegate {
+    
+}
+
+// MARK: - Implement PresenterAttachable
+
+extension {{ module_info.name }}Scene: PresenterAttachable {
+    func attach(presenter: Unit.Handler) {
+        self.presenter = presenter
+    }
+}
+
+// MARK: - Common init
+
+private extension {{ module_info.name }}Scene {
+    func commonInit() {
+        
+    }
+}

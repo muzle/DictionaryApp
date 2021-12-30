@@ -1,0 +1,11 @@
+# Template information section
+name: scene
+summary: An MVP-based scene with a coordinator, a view model, and a view controller.
+
+# The declarations for code files.
+code_files:
+- {name: SceneCoordinator.swift, path: Code/Coordinator.swift.liquid}
+- {name: SceneView.swift, path: Code/SceneView.swift.liquid}
+- {name: Scene.swift, path: Code/Scene.swift.liquid}
+- {name: SceneDelegate.swift, path: Code/ViewDelegate.swift.liquid}
+- {name: SceneUnit.swift, path: Code/Presenter.swift.liquid}
