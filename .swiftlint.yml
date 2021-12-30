@@ -1,0 +1,60 @@
+included:
+    - DictionaryApp
+
+identifier_name:
+  allowed_symbols: "_"
+  min_length: 2
+  severity: warning
+  validates_start_with_lowercase: false
+
+trailing_whitespace:
+  ignores_empty_lines: true
+
+force_cast:
+  severity: error
+
+force_try:
+  severity: error
+
+function_body_length:
+  warning: 60
+  error: 120
+  
+cyclomatic_complexity:
+  ignores_case_statements: true
+    
+line_length: 150
+
+custom_rules:
+  id_suffix_naming:
+    name: "Wrong name"
+    regex: "(ID)"
+    match_kinds:
+      - comment
+      - identifier
+    message: "Use 'Id' instead 'ID'"
+    severity: warning
+    
+  access_flag_sequence:
+    name: "Wrong name sequence"
+    regex: "(?<=final ).*(?= class)"
+    match_kinds:
+    - attribute.builtin
+    message: "Use *access modificator* final class"
+    severity: warning
+
+  mark_naming_mistake:
+      name: "Wrong mark letter"
+      regex: "( MARK: - [a-z])"
+      match_kinds:
+      - comment
+      message: "mark message must start with capital letter"
+      severity: warning
+
+  dont_use_print:
+    name: "Don't use print"
+    regex: "print"
+    match_kinds:
+      - identifier
+    message: "Use Logger.log instead print"
+    severity: warning
