@@ -1,12 +1,11 @@
 import Foundation
 import UIKit
 
-final class SearchWordSceneCoordinator: AutoCoordinatorType {
-    typealias Context = CoordinatorsFactory & SearchWordScenePresenterImpl.Context
+final class WordMeaningSceneCoordinator: AutoCoordinatorType {
+    typealias Context = CoordinatorsFactory & WordMeaningScenePresenterImpl.Context
     typealias Navigator = NavigatorType
     struct Configuration {
-        let searchText: String?
-        let searchResultScenePresenterWrapper: ReferenceWrapper<(() -> SearchResultScenePresenter)?>
+        let id: Int
     }
     
     private let context: Context
@@ -26,18 +25,17 @@ final class SearchWordSceneCoordinator: AutoCoordinatorType {
 
 // MARK: - Implement CoordinatorType
 
-extension SearchWordSceneCoordinator: CoordinatorType {
+extension WordMeaningSceneCoordinator: CoordinatorType {
     func makeScene() -> UIViewController {
-        let config = SearchWordScenePresenterImpl.Configuration(
-            searhText: configuration.searchText,
-            searchResultScenePresenterWrapper: configuration.searchResultScenePresenterWrapper
+        let config = WordMeaningScenePresenterImpl.Configuration(
+            id: configuration.id
         )
-        let scenePresenter = SearchWordScenePresenterImpl(
+        let scenePresenter = WordMeaningScenePresenterImpl(
             context: context,
             configuration: config,
             router: asRouter()
         )
-        let scene = SearchWordScene()
+        let scene = WordMeaningScene()
         let presenter = scenePresenter.attach(delegate: scene)
         scene.attach(presenter: presenter)
         return scene
@@ -46,8 +44,8 @@ extension SearchWordSceneCoordinator: CoordinatorType {
 
 // MARK: - Implement RouterType
 
-extension SearchWordSceneCoordinator: RouterType {
-    func handle(event: SearchWordSceneUnit.Event) {
+extension WordMeaningSceneCoordinator: RouterType {
+    func handle(event: WordMeaningSceneUnit.Event) {
         switch event {
         case .meaning(let id):
             let config = WordMeaningSceneCoordinator.Configuration(
@@ -59,6 +57,8 @@ extension SearchWordSceneCoordinator: RouterType {
             )
             let scene = coordinator.makeScene()
             navigation?.push(scene, animated: true)
+        case .alert(let block):
+            navigation?.presentAlert(block: block)
         }
     }
 }

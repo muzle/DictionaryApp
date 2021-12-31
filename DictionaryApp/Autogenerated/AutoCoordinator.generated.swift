@@ -15,6 +15,10 @@ protocol CoordinatorsFactory {
     func makeWelcomeSceneCoordinator(
         navigation: NavigatorType?
     ) -> WelcomeSceneCoordinator
+    func makeWordMeaningSceneCoordinator(
+        navigation: NavigatorType?,
+        configuration: WordMeaningSceneCoordinator.Configuration
+    ) -> WordMeaningSceneCoordinator
 }
 
 extension Context: CoordinatorsFactory {
@@ -48,6 +52,16 @@ extension Context: CoordinatorsFactory {
         WelcomeSceneCoordinator(
                 context: self,
                 navigation: navigation
+        )
+    }
+    func makeWordMeaningSceneCoordinator(
+        navigation: NavigatorType?,
+        configuration: WordMeaningSceneCoordinator.Configuration
+    ) -> WordMeaningSceneCoordinator {
+        WordMeaningSceneCoordinator(
+                context: self,
+                navigation: navigation,
+                configuration: configuration
         )
     }
 }

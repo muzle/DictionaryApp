@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18FF13C68D591650EA9B29FC /* SearchWordSceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453A9EE0DFEC422B7E1D043F /* SearchWordSceneCoordinator.swift */; };
+		2ADA4EFA8DE529946B485DC3 /* WordMeaningScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E0D642B79F9705F0BE0125 /* WordMeaningScene.swift */; };
 		2F36A71E277DA2FA005D27BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A71D277DA2FA005D27BF /* AppDelegate.swift */; };
 		2F36A727277DA2FB005D27BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F36A726277DA2FB005D27BF /* Assets.xcassets */; };
 		2F36A72A277DA2FB005D27BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F36A728277DA2FB005D27BF /* LaunchScreen.storyboard */; };
@@ -144,15 +145,29 @@
 		2F36A898277E6B8C005D27BF /* UIViewController+Preader+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A896277E6B8C005D27BF /* UIViewController+Preader+extension.swift */; };
 		2F36A89C277E6CE2005D27BF /* TestWordsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A89B277E6CE2005D27BF /* TestWordsUseCase.swift */; };
 		2F36A89E277E6CFE005D27BF /* MockContextBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A89D277E6CFE005D27BF /* MockContextBuilder.swift */; };
+		2F36A8AB277F2717005D27BF /* WordUsingExampleViewDefinitionPresenterImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A0277F2717005D27BF /* WordUsingExampleViewDefinitionPresenterImpl.swift */; };
+		2F36A8AC277F2717005D27BF /* WordUsingExampleViewExamplePresenterImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A1277F2717005D27BF /* WordUsingExampleViewExamplePresenterImpl.swift */; };
+		2F36A8AD277F2717005D27BF /* WordUsingExampleViewUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A2277F2717005D27BF /* WordUsingExampleViewUnit.swift */; };
+		2F36A8AE277F2717005D27BF /* WordUsingExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A3277F2717005D27BF /* WordUsingExampleView.swift */; };
+		2F36A8AF277F2717005D27BF /* WordUsingExampleViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A4277F2717005D27BF /* WordUsingExampleViewDelegate.swift */; };
+		2F36A8B0277F2717005D27BF /* AdditionalTranslateViewUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A6277F2717005D27BF /* AdditionalTranslateViewUnit.swift */; };
+		2F36A8B1277F2717005D27BF /* AdditionalTranslateViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A7277F2717005D27BF /* AdditionalTranslateViewDelegate.swift */; };
+		2F36A8B2277F2717005D27BF /* AdditionalTranslateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8A8277F2717005D27BF /* AdditionalTranslateView.swift */; };
+		2F36A8B3277F2717005D27BF /* ViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8AA277F2717005D27BF /* ViewWrapper.swift */; };
+		2F36A8B5277F276F005D27BF /* UIView+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F36A8B4277F276F005D27BF /* UIView+extension.swift */; };
 		3275951EB7D1EF148F7F680B /* SearchSceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216207694E9D0978F835E93F /* SearchSceneCoordinator.swift */; };
+		40E58A9F2643D3F371F67C83 /* WordMeaningSceneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB217FD933969E02C00B9D0 /* WordMeaningSceneView.swift */; };
 		4442287631F57A55AAB981F2 /* SearchWordSceneUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F5E88E2052BB0F6EF9C3D /* SearchWordSceneUnit.swift */; };
 		4CC65F3B39BA6DFC6775D73D /* Pods_DictionaryApp_DictionaryAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28FA81084E91606EBBB35C6A /* Pods_DictionaryApp_DictionaryAppUITests.framework */; };
+		51E09C624920567F943B4DEF /* WordMeaningSceneUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F8754F9F964F43C66FB067A /* WordMeaningSceneUnit.swift */; };
 		533E2527163BFA54A66AAEB1 /* Pods_DictionaryApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D758BD259914748FFCFFEDF2 /* Pods_DictionaryApp.framework */; };
 		57AD5679D450EF61AF33011C /* SearchScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1E4DEC7D1D897A4AC1B272 /* SearchScene.swift */; };
 		5FA5D9EACF64A82C8FB98E34 /* SearchSceneUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DC43062780DAC451E4833E /* SearchSceneUnit.swift */; };
 		795A3CBDDABF49671CE4C43A /* WelcomeSceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C13377C09E4CAA123630C24 /* WelcomeSceneCoordinator.swift */; };
 		7AB3FF10DA4084740C88B8B5 /* Pods_DictionaryAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B483A68D27AD82A3603286EC /* Pods_DictionaryAppTests.framework */; };
 		7BF1F8B5B9FDE0F428139565 /* WelcomeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43788559C6933B875F45187 /* WelcomeScene.swift */; };
+		7E7A0ECE4A8C1FBC04901989 /* WordMeaningSceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82150804C57A9FCC9FF588BA /* WordMeaningSceneCoordinator.swift */; };
+		846D63C11A8FF5224423B00A /* WordMeaningSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A118594AD84020D579F8AEFE /* WordMeaningSceneDelegate.swift */; };
 		A53995C9AB2F23DD55D2387E /* SearchWordScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029EFD9111DE445E67440841 /* SearchWordScene.swift */; };
 		B63585A5884E6286037DE5C3 /* WelcomeSceneUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B79A2FA7F05BF8FB806AA90 /* WelcomeSceneUnit.swift */; };
 		BB7B437273BC1339C0DF5FAD /* WelcomeSceneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FE818591D70528F141003D /* WelcomeSceneView.swift */; };
@@ -181,6 +196,7 @@
 /* Begin PBXFileReference section */
 		022215F1729FC8AAB6FB5441 /* WelcomeSceneDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WelcomeSceneDelegate.swift; sourceTree = "<group>"; };
 		029EFD9111DE445E67440841 /* SearchWordScene.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchWordScene.swift; sourceTree = "<group>"; };
+		04E0D642B79F9705F0BE0125 /* WordMeaningScene.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WordMeaningScene.swift; sourceTree = "<group>"; };
 		1331B2DE044FE31DD2DC3C2F /* Pods-DictionaryAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryAppTests.release.xcconfig"; path = "Target Support Files/Pods-DictionaryAppTests/Pods-DictionaryAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		216207694E9D0978F835E93F /* SearchSceneCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchSceneCoordinator.swift; sourceTree = "<group>"; };
 		28FA81084E91606EBBB35C6A /* Pods_DictionaryApp_DictionaryAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DictionaryApp_DictionaryAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -327,18 +343,32 @@
 		2F36A896277E6B8C005D27BF /* UIViewController+Preader+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Preader+extension.swift"; sourceTree = "<group>"; };
 		2F36A89B277E6CE2005D27BF /* TestWordsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestWordsUseCase.swift; sourceTree = "<group>"; };
 		2F36A89D277E6CFE005D27BF /* MockContextBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockContextBuilder.swift; sourceTree = "<group>"; };
+		2F36A8A0277F2717005D27BF /* WordUsingExampleViewDefinitionPresenterImpl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordUsingExampleViewDefinitionPresenterImpl.swift; sourceTree = "<group>"; };
+		2F36A8A1277F2717005D27BF /* WordUsingExampleViewExamplePresenterImpl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordUsingExampleViewExamplePresenterImpl.swift; sourceTree = "<group>"; };
+		2F36A8A2277F2717005D27BF /* WordUsingExampleViewUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordUsingExampleViewUnit.swift; sourceTree = "<group>"; };
+		2F36A8A3277F2717005D27BF /* WordUsingExampleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordUsingExampleView.swift; sourceTree = "<group>"; };
+		2F36A8A4277F2717005D27BF /* WordUsingExampleViewDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordUsingExampleViewDelegate.swift; sourceTree = "<group>"; };
+		2F36A8A6277F2717005D27BF /* AdditionalTranslateViewUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdditionalTranslateViewUnit.swift; sourceTree = "<group>"; };
+		2F36A8A7277F2717005D27BF /* AdditionalTranslateViewDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdditionalTranslateViewDelegate.swift; sourceTree = "<group>"; };
+		2F36A8A8277F2717005D27BF /* AdditionalTranslateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdditionalTranslateView.swift; sourceTree = "<group>"; };
+		2F36A8AA277F2717005D27BF /* ViewWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewWrapper.swift; sourceTree = "<group>"; };
+		2F36A8B4277F276F005D27BF /* UIView+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+extension.swift"; sourceTree = "<group>"; };
 		329991CDD472439A5FF69041 /* SearchSceneDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchSceneDelegate.swift; sourceTree = "<group>"; };
 		334062081109C8FF548E7B65 /* Pods-DictionaryAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryAppTests.debug.xcconfig"; path = "Target Support Files/Pods-DictionaryAppTests/Pods-DictionaryAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		3C13377C09E4CAA123630C24 /* WelcomeSceneCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WelcomeSceneCoordinator.swift; sourceTree = "<group>"; };
 		3D1E4DEC7D1D897A4AC1B272 /* SearchScene.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchScene.swift; sourceTree = "<group>"; };
 		453A9EE0DFEC422B7E1D043F /* SearchWordSceneCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchWordSceneCoordinator.swift; sourceTree = "<group>"; };
 		49FE818591D70528F141003D /* WelcomeSceneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WelcomeSceneView.swift; sourceTree = "<group>"; };
+		4F8754F9F964F43C66FB067A /* WordMeaningSceneUnit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WordMeaningSceneUnit.swift; sourceTree = "<group>"; };
 		603B6934FB4216E7F513AE14 /* Pods-DictionaryApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryApp.release.xcconfig"; path = "Target Support Files/Pods-DictionaryApp/Pods-DictionaryApp.release.xcconfig"; sourceTree = "<group>"; };
 		6789DF65AA1F1A0DFCF9F8E2 /* Pods-DictionaryApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryApp.debug.xcconfig"; path = "Target Support Files/Pods-DictionaryApp/Pods-DictionaryApp.debug.xcconfig"; sourceTree = "<group>"; };
+		82150804C57A9FCC9FF588BA /* WordMeaningSceneCoordinator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WordMeaningSceneCoordinator.swift; sourceTree = "<group>"; };
+		8AB217FD933969E02C00B9D0 /* WordMeaningSceneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WordMeaningSceneView.swift; sourceTree = "<group>"; };
 		91DC43062780DAC451E4833E /* SearchSceneUnit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchSceneUnit.swift; sourceTree = "<group>"; };
 		939E26C0CB7EEBA2EA0E16AD /* Pods-DictionaryApp-DictionaryAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryApp-DictionaryAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-DictionaryApp-DictionaryAppUITests/Pods-DictionaryApp-DictionaryAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		9A8E86EE1B08A7A6FF077E75 /* Pods-DictionaryApp-DictionaryAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DictionaryApp-DictionaryAppUITests.release.xcconfig"; path = "Target Support Files/Pods-DictionaryApp-DictionaryAppUITests/Pods-DictionaryApp-DictionaryAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		9B79A2FA7F05BF8FB806AA90 /* WelcomeSceneUnit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WelcomeSceneUnit.swift; sourceTree = "<group>"; };
+		A118594AD84020D579F8AEFE /* WordMeaningSceneDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = WordMeaningSceneDelegate.swift; sourceTree = "<group>"; };
 		B483A68D27AD82A3603286EC /* Pods_DictionaryAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DictionaryAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D758BD259914748FFCFFEDF2 /* Pods_DictionaryApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DictionaryApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF007A9DF222E843F5F67F58 /* SearchWordSceneDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SearchWordSceneDelegate.swift; sourceTree = "<group>"; };
@@ -374,6 +404,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		205970E2585F2EB9FFF12EA5 /* WordMeaning */ = {
+			isa = PBXGroup;
+			children = (
+				82150804C57A9FCC9FF588BA /* WordMeaningSceneCoordinator.swift */,
+				8AB217FD933969E02C00B9D0 /* WordMeaningSceneView.swift */,
+				04E0D642B79F9705F0BE0125 /* WordMeaningScene.swift */,
+				A118594AD84020D579F8AEFE /* WordMeaningSceneDelegate.swift */,
+				4F8754F9F964F43C66FB067A /* WordMeaningSceneUnit.swift */,
+			);
+			path = WordMeaning;
+			sourceTree = "<group>";
+		};
 		2F36A711277DA2FA005D27BF = {
 			isa = PBXGroup;
 			children = (
@@ -942,7 +984,10 @@
 		2F36A866277E65F3005D27BF /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				2F36A8A5277F2717005D27BF /* AdditionalTranslate */,
 				2F36A867277E6606005D27BF /* WordCard */,
+				2F36A89F277F2717005D27BF /* WordUsingExample */,
+				2F36A8A9277F2717005D27BF /* Wrapper */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -992,6 +1037,7 @@
 				2F36A884277E692A005D27BF /* UIStackView+extension.swift */,
 				2F36A886277E693D005D27BF /* UIEdgeInsets+extension.swift */,
 				2F36A888277E6955005D27BF /* UIImage+extension.swift */,
+				2F36A8B4277F276F005D27BF /* UIView+extension.swift */,
 			);
 			path = "UIKit+extension";
 			sourceTree = "<group>";
@@ -1030,6 +1076,36 @@
 				2F36A89B277E6CE2005D27BF /* TestWordsUseCase.swift */,
 			);
 			path = UseCase;
+			sourceTree = "<group>";
+		};
+		2F36A89F277F2717005D27BF /* WordUsingExample */ = {
+			isa = PBXGroup;
+			children = (
+				2F36A8A0277F2717005D27BF /* WordUsingExampleViewDefinitionPresenterImpl.swift */,
+				2F36A8A1277F2717005D27BF /* WordUsingExampleViewExamplePresenterImpl.swift */,
+				2F36A8A2277F2717005D27BF /* WordUsingExampleViewUnit.swift */,
+				2F36A8A3277F2717005D27BF /* WordUsingExampleView.swift */,
+				2F36A8A4277F2717005D27BF /* WordUsingExampleViewDelegate.swift */,
+			);
+			path = WordUsingExample;
+			sourceTree = "<group>";
+		};
+		2F36A8A5277F2717005D27BF /* AdditionalTranslate */ = {
+			isa = PBXGroup;
+			children = (
+				2F36A8A6277F2717005D27BF /* AdditionalTranslateViewUnit.swift */,
+				2F36A8A7277F2717005D27BF /* AdditionalTranslateViewDelegate.swift */,
+				2F36A8A8277F2717005D27BF /* AdditionalTranslateView.swift */,
+			);
+			path = AdditionalTranslate;
+			sourceTree = "<group>";
+		};
+		2F36A8A9277F2717005D27BF /* Wrapper */ = {
+			isa = PBXGroup;
+			children = (
+				2F36A8AA277F2717005D27BF /* ViewWrapper.swift */,
+			);
+			path = Wrapper;
 			sourceTree = "<group>";
 		};
 		4BF92862E9A0070FDDF6D5C9 /* Search */ = {
@@ -1085,6 +1161,7 @@
 				80BFF58A8ED944193DF37577 /* Welcome */,
 				4BF92862E9A0070FDDF6D5C9 /* Search */,
 				76FF8CE4A5D73E96F403642B /* SearchWord */,
+				205970E2585F2EB9FFF12EA5 /* WordMeaning */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -1416,6 +1493,7 @@
 				2F36A806277DD635005D27BF /* NetworkFetcher.swift in Sources */,
 				2F36A7ED277DCFAC005D27BF /* Translation.swift in Sources */,
 				2F36A821277DD6C7005D27BF /* NsJsonEncoderFactory.swift in Sources */,
+				2F36A8B3277F2717005D27BF /* ViewWrapper.swift in Sources */,
 				2F36A86D277E663D005D27BF /* WordCardUnit.swift in Sources */,
 				2F36A885277E692A005D27BF /* UIStackView+extension.swift in Sources */,
 				2F36A7E7277DCFAC005D27BF /* WordsUseCase.swift in Sources */,
@@ -1463,12 +1541,15 @@
 				2F36A7C8277DBAD6005D27BF /* ContextBuilder.swift in Sources */,
 				2F36A820277DD6C7005D27BF /* NsJsonDecoderFactory.swift in Sources */,
 				2F36A7CC277DBC12005D27BF /* TextStyleFactory.swift in Sources */,
+				2F36A8AC277F2717005D27BF /* WordUsingExampleViewExamplePresenterImpl.swift in Sources */,
 				2F36A78A277DA7BF005D27BF /* AlertStyle.swift in Sources */,
 				2F36A893277E69CC005D27BF /* InfoViewDelegate.swift in Sources */,
 				2F36A83F277E34D0005D27BF /* AlternativeTranslationDTO.swift in Sources */,
 				2F36A890277E69CC005D27BF /* UIViewController+InfoView+extension.swift in Sources */,
+				2F36A8B5277F276F005D27BF /* UIView+extension.swift in Sources */,
 				2F36A84C277E4D3E005D27BF /* ImageFetcherImpl.swift in Sources */,
 				2F36A79A277DA7BF005D27BF /* AnyPresenter.swift in Sources */,
+				2F36A8AD277F2717005D27BF /* WordUsingExampleViewUnit.swift in Sources */,
 				2F36A7A1277DA7BF005D27BF /* TextStyle.swift in Sources */,
 				2F36A753277DA7AB005D27BF /* Markers.swift in Sources */,
 				2F36A83E277E34D0005D27BF /* MeaningsWithSimilarTranslationDTO.swift in Sources */,
@@ -1499,11 +1580,13 @@
 				2F36A79E277DA7BF005D27BF /* ShadowStyle.swift in Sources */,
 				2F36A794277DA7BF005D27BF /* CoordinatorType.swift in Sources */,
 				2F36A883277E6918005D27BF /* UIControl+extension.swift in Sources */,
+				2F36A8B2277F2717005D27BF /* AdditionalTranslateView.swift in Sources */,
 				2F36A7AA277DAE9B005D27BF /* AutoProperties.generated.swift in Sources */,
 				2F36A81B277DD6C7005D27BF /* WordRouter.swift in Sources */,
 				2F36A7AB277DAE9B005D27BF /* AutoCoordinator.generated.swift in Sources */,
 				2F36A7F2277DCFAC005D27BF /* Definition.swift in Sources */,
 				2F36A7C6277DBA84005D27BF /* SocialServiceImpl.swift in Sources */,
+				2F36A8AF277F2717005D27BF /* WordUsingExampleViewDelegate.swift in Sources */,
 				2F36A78C277DA7BF005D27BF /* AlertPosition.swift in Sources */,
 				2F36A83A277E34D0005D27BF /* WordDTO.swift in Sources */,
 				2F36A889277E6955005D27BF /* UIImage+extension.swift in Sources */,
@@ -1519,6 +1602,7 @@
 				2F36A789277DA7BF005D27BF /* Runnable.swift in Sources */,
 				795A3CBDDABF49671CE4C43A /* WelcomeSceneCoordinator.swift in Sources */,
 				BB7B437273BC1339C0DF5FAD /* WelcomeSceneView.swift in Sources */,
+				2F36A8AE277F2717005D27BF /* WordUsingExampleView.swift in Sources */,
 				2F36A825277DD6C7005D27BF /* URLRequestConvertible.swift in Sources */,
 				7BF1F8B5B9FDE0F428139565 /* WelcomeScene.swift in Sources */,
 				EB57ABDD0C3B5A427502AD7A /* WelcomeSceneDelegate.swift in Sources */,
@@ -1526,6 +1610,7 @@
 				2F36A7E9277DCFAC005D27BF /* ImageRepository.swift in Sources */,
 				2F36A87E277E6836005D27BF /* DispatchWorlItem+extension.swift in Sources */,
 				B63585A5884E6286037DE5C3 /* WelcomeSceneUnit.swift in Sources */,
+				2F36A8B1277F2717005D27BF /* AdditionalTranslateViewDelegate.swift in Sources */,
 				18FF13C68D591650EA9B29FC /* SearchWordSceneCoordinator.swift in Sources */,
 				2F36A875277E671C005D27BF /* WordsUseCaseImpl.swift in Sources */,
 				A53995C9AB2F23DD55D2387E /* SearchWordScene.swift in Sources */,
@@ -1536,6 +1621,13 @@
 				E3E30B64B7EF9344C4400B00 /* SearchSceneDelegate.swift in Sources */,
 				5FA5D9EACF64A82C8FB98E34 /* SearchSceneUnit.swift in Sources */,
 				2F36A873277E66D4005D27BF /* String+extension.swift in Sources */,
+				2F36A8AB277F2717005D27BF /* WordUsingExampleViewDefinitionPresenterImpl.swift in Sources */,
+				2F36A8B0277F2717005D27BF /* AdditionalTranslateViewUnit.swift in Sources */,
+				7E7A0ECE4A8C1FBC04901989 /* WordMeaningSceneCoordinator.swift in Sources */,
+				40E58A9F2643D3F371F67C83 /* WordMeaningSceneView.swift in Sources */,
+				2ADA4EFA8DE529946B485DC3 /* WordMeaningScene.swift in Sources */,
+				846D63C11A8FF5224423B00A /* WordMeaningSceneDelegate.swift in Sources */,
+				51E09C624920567F943B4DEF /* WordMeaningSceneUnit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
