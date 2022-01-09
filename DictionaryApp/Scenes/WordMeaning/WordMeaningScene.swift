@@ -38,9 +38,9 @@ extension WordMeaningScene: WordMeaningSceneDelegate {
     func navigationTitle(_ title: String?) {
         navigationItem.title = title
     }
-    func setImage(_ image: UIImage, udpateConstraint: Bool) {
+    func setImage(_ image: UIImage, updateConstraint: Bool) {
         contentView.imageView.image = image
-        if udpateConstraint {
+        if updateConstraint {
             contentView.didLoadImage(image)
         }
     }

@@ -8,6 +8,7 @@ final class TestNetworkRepositories: XCTestCase {
     var repository: Repository!
     
     override func setUpWithError() throws {
+        try super.setUpWithError()
         repository = NetworkRepositories(
             networkFetcher: NetworkFetcherMock(),
             imageFetcher: ImageFetcherMock()
@@ -16,6 +17,7 @@ final class TestNetworkRepositories: XCTestCase {
 
     override func tearDownWithError() throws {
         repository = nil
+        try super.tearDownWithError()
     }
     
     func testSearch() throws {

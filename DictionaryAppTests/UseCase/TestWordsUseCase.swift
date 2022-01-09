@@ -6,11 +6,13 @@ final class TestWordsUseCase: XCTestCase {
     var useCase: WordsUseCase!
     
     override func setUpWithError() throws {
-        useCase = MockContextBuilder().build().wordsUseCase
+        try super.setUpWithError()
+        useCase = ContextBuilderMock().build().wordsUseCase
     }
 
     override func tearDownWithError() throws {
         useCase = nil
+        try super.tearDownWithError()
     }
     
     func testSearch() throws {

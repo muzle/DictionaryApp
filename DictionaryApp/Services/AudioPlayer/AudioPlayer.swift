@@ -1,6 +1,6 @@
 import Foundation
 
-protocol AudioPlayer {
+public protocol AudioPlayer {
     @discardableResult
     func play(url: URL) -> Cancelable
 }

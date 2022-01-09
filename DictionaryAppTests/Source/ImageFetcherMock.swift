@@ -10,7 +10,7 @@ final class ImageFetcherMock: ImageFetcher {
     ) -> Cancelable? {
         let task = URLSessionDataTaskMock {
             completionQueue.async {
-                completion(.success(Asset.ic80Mark.image))
+                completion(.success(Asset.ic60ImagePlaceholder.image))
             }
         }
         task.resume()

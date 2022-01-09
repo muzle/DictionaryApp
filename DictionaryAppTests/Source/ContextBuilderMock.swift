@@ -1,7 +1,7 @@
 import Foundation
 @testable import DictionaryApp
 
-final class MockContextBuilder {
+final class ContextBuilderMock {
     func build() -> Context {
         let networkRepositories = NetworkRepositories(
             networkFetcher: NetworkFetcherMock(),

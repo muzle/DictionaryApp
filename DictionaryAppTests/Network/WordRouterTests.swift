@@ -6,11 +6,13 @@ final class WordRouterTests: XCTestCase {
     var encoder: JSONEncoder!
     
     override func setUpWithError() throws {
+        try super.setUpWithError()
         encoder = NsJsonEncoderFactory.customIsoEncoder
     }
 
     override func tearDownWithError() throws {
         encoder = nil
+        try super.tearDownWithError()
     }
     
     func testWordsRoute() throws {

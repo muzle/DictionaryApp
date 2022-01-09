@@ -10,7 +10,7 @@ enum WordMeaningSceneComponentType {
 protocol WordMeaningSceneDelegate: AnyObject {
     func navigationTitle(_ title: String?)
     func showPreloader(_ value: Bool)
-    func setImage(_ image: UIImage, udpateConstraint: Bool)
+    func setImage(_ image: UIImage, updateConstraint: Bool)
     func setText(_ text: String?)
     func setTranslate(_ text: String?)
     func showSoundButton(_ value: Bool)

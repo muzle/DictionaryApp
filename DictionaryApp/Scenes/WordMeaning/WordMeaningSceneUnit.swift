@@ -99,9 +99,9 @@ private extension WordMeaningScenePresenterImpl {
         cancelableTracker += context.wordsUseCase.getImage(for: meaning) { [delegate] result in
             switch result {
             case .success(let image):
-                delegate?.setImage(image ?? Asset.ic60ImagePlaceholder.image, udpateConstraint: image != nil)
+                delegate?.setImage(image ?? Asset.ic60ImagePlaceholder.image, updateConstraint: image != nil)
             case .failure:
-                delegate?.setImage(Asset.ic60ImagePlaceholder.image, udpateConstraint: false)
+                delegate?.setImage(Asset.ic60ImagePlaceholder.image, updateConstraint: false)
             }
         }
     }
