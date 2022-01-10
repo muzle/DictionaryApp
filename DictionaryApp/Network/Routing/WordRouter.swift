@@ -1,4 +1,5 @@
 import Foundation
+import ApiRouter
 
 internal enum WordRouter {
     case words(query: Encodable)

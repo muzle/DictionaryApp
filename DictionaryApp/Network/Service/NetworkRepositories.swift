@@ -1,5 +1,6 @@
 import Foundation
 import UIKit
+import ApiRouter
 
 final class NetworkRepositories {
     private let networkFetcher: NetworkFetcher
@@ -87,7 +88,7 @@ private extension NetworkRepositories {
         completionQueue: DispatchQueue = .global(qos: .background)
     ) -> Cancelable? {
         do {
-            let request = try route.convertToRequest(with: encoder)
+            let request = try route.convertToURLRequest(with: encoder)
             return networkFetcher.fetch(
                 request,
                 type: type.self,

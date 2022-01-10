@@ -31,6 +31,7 @@ target 'DictionaryApp' do
   snapKit
   swiftGen
   imageLoader
+  pod 'ApiRouter'
   
   target 'DictionaryAppTests' do
     inherit! :search_paths
